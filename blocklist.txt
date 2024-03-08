@@ -31,3 +31,4 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 37.28.157.12 # Belfius Bank, also Argenta.be
 5.182.36.181 # Protonmail
 34.125.139.171 # Linkedin
+194.99.79.28  # LinkedIn
