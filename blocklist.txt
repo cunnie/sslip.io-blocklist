@@ -36,3 +36,9 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 79.137.202.34 # "The Global Fund"
 45.156.24.10 # amazon.co.jp
 91.107.154.247 # United Nations Population Fund UNFPA
+5.161.56.94 # nypost.com
+5.250.187.205 # brave.com
+194.116.214.162 # rt.com
+49.12.41.51 # slate.com
+104.234.196.206 # blizzard.com
+45.87.41.92 # pogo.com
