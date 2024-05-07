@@ -44,3 +44,9 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 45.87.41.92 # pogo.com
 128.140.56.172 # n4g.com
 128.140.77.135 # n4g.com
+91.107.145.237 # nbcnews.com
+209.141.40.61 # pytorch.org
+89.110.65.182 # apple.com
+172.86.70.223 # sfsi.org
+79.132.135.157 # concern.net
+38.180.104.125 # actionaid.org
