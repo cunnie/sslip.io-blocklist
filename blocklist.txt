@@ -317,3 +317,16 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 135.181.157.72 # waqfeya.net
 83.217.9.85 # apt.ch
 134.209.190.61 # thestar.com
+146.190.18.201 # nytimes.com
+65.109.221.11 # defcad.com
+134.122.75.15 # bathelalnada.com
+128.140.10.175 # alea-italia.it
+89.185.85.193 # tomato.gg
+165.227.225.17 # thestar.com
+49.12.103.72 # reliefweb.int
+164.92.139.32 # palmy-investing.com
+46.4.162.14 # foreignpolicy.com
+141.11.107.89 # linphone.org
+77.238.238.216 # sci-hub.se
+194.62.251.127 # goodreads.com
+157.90.149.110 # beyondexgay.com
