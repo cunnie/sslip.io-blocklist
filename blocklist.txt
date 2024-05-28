@@ -196,7 +196,6 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 109.172.80.235 # slate.com
 103.75.196.210 # soft98.ir
 91.107.163.211 # pogo.com
-79.132.130.39 # th-ab.de
 85.159.230.171 # actionaid.org
 45.92.111.164 # holakoueearchive.co
 5.161.108.76 # shopmeramedical.com
