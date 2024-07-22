@@ -478,3 +478,14 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 193.24.209.143 # globalpolicy.org
 209.38.38.51 # cesr.org
 109.120.187.71 # now.org
+65.109.186.19 # my-diary.org
+37.27.80.4 # actionaid.org
+104.168.68.225 # beparsi.com
+107.174.92.107 # privacytools.io
+212.64.214.31 # technorati.com
+3.67.106.44 # nabaliaenergia.com
+168.119.94.3 # pcgamesn.com
+91.107.247.95 # ebaumsworld.com
+23.137.104.229 # reviewscaribbean.com
+91.107.156.231 # ebaumsworld.com
+37.27.12.156 # uptvs.com
