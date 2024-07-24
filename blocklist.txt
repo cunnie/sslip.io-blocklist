@@ -489,3 +489,15 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 23.137.104.229 # reviewscaribbean.com
 91.107.156.231 # ebaumsworld.com
 37.27.12.156 # uptvs.com
+108.165.128.113 # concern.net
+104.234.11.35 # camspark.com
+207.154.229.160 # haqi.org
+38.180.154.91 # earthwatch.org
+38.180.15.105 # stonewall.org.uk
+5.75.207.83 # ebaumsworld.com
+91.107.240.195 # cesr.org
+92.51.45.76 # rescue.org
+49.12.241.120 # roam.news
+91.107.139.245 # catholic.org
+82.115.17.9 # ted.com
+49.12.208.158 # dotabuff.com
