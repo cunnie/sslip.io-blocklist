@@ -636,3 +636,14 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 138.68.77.97 # laborrights.org
 141.227.128.238 # UNFPA
 154.205.148.163 # UNFPA
+18.219.211.22 # velhaestancia.com.br
+178.20.47.52 # arriyadiyah.com
+209.38.250.14 # concern.net
+81.29.149.131 # slate.com
+65.108.247.57 # pcgamesn.com
+104.245.12.38 # mastodon.sdf.org
+178.73.210.233 # aljazeera.com
+91.107.156.17 # panda.org
+178.236.246.214 # madmaxworld.tv
+5.75.195.227 # wildriftfire.com
+108.59.199.190 # stthomasaquinassociety.org
