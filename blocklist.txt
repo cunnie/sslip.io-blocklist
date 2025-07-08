@@ -735,3 +735,4 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 181.214.208.102/32 # telegram
 167.88.162.29/32 # Bank of America
 95.179.245.161/32 # mobile.de
+86.106.104.8/32 # nominalia
