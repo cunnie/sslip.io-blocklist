@@ -736,3 +736,8 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 167.88.162.29/32 # Bank of America
 95.179.245.161/32 # mobile.de
 86.106.104.8/32 # nominalia
+185.186.78.97/32 # slack.com
+23.94.253.213/32 # slack.com
+109.120.139.210/32 # slack.com
+146.70.157.96/32 # slack.com
+116.203.23.38/32 # slack.com
