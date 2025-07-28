@@ -741,3 +741,4 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 109.120.139.210/32 # slack.com
 146.70.157.96/32 # slack.com
 116.203.23.38/32 # slack.com
+86.106.104.22/32 # webmail
