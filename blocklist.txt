@@ -743,3 +743,4 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 116.203.23.38/32 # slack.com
 86.106.104.22/32 # webmail
 86.106.104.12/32 # team blue
+146.103.41.40/32 # amazon
