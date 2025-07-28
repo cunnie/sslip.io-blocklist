@@ -744,3 +744,4 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 86.106.104.22/32 # webmail
 86.106.104.12/32 # team blue
 146.103.41.40/32 # amazon
+38.180.146.222/32 # priceshoes
