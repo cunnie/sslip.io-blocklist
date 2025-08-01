@@ -747,3 +747,4 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 38.180.146.222/32 # priceshoes
 82.25.34.83/32 # UNFPA
 89.23.107.250/32 # Westpac Bank Australia
+86.106.104.24/32 # isleofman.com / manx.net
