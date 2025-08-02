@@ -748,3 +748,4 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 82.25.34.83/32 # UNFPA
 89.23.107.250/32 # Westpac Bank Australia
 86.106.104.24/32 # isleofman.com / manx.net
+5.189.221.55/32 # amazon.com
