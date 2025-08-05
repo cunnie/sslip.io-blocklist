@@ -752,3 +752,4 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 96.9.125.197 # web shell
 82.115.8.149 # hsbc uk
 45.87.43.205 # TikTok Business Center
+86.106.104.30 # Microsoft Outlook
