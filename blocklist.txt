@@ -653,6 +653,8 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 86.106.104.24/32 # isleofman.com / manx.net
 86.106.104.30/32 # Microsoft Outlook
 86.106.104.8/32 # nominalia
+86.106.104.18/32 # Government of India Ministry of External Affairs (mea.gov.in)
+86.106.104.0/25 # ValkyrieHosting (Romania)?
 86.38.156.169/32 # sxyprn.com
 87.247.170.234/32 # shenoto.com
 88.218.17.193/32 # architectureau.com
