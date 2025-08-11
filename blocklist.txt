@@ -346,6 +346,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 195.201.223.122/32 # w3schools.com
 195.201.234.54/32 # nextpit.com
 195.219.251.74/32 # utoronto.ca
+196.251.73.194/32 # Magyar Posta Zrt.
 198.181.36.122/32 # actionaid.org
 199.247.13.156/32 # rog.asus.com
 199.247.14.108/32 # brothersroad.org
@@ -648,13 +649,13 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 85.192.56.134/32 # kennedy-center.org
 85.239.52.124/32 # sayt.ws
 85.239.63.67/32 # tumblr.com
+86.106.104.0/25 # ValkyrieHosting (Romania)?
 86.106.104.12/32 # team blue
+86.106.104.18/32 # Government of India Ministry of External Affairs (mea.gov.in)
 86.106.104.22/32 # webmail
 86.106.104.24/32 # isleofman.com / manx.net
 86.106.104.30/32 # Microsoft Outlook
 86.106.104.8/32 # nominalia
-86.106.104.18/32 # Government of India Ministry of External Affairs (mea.gov.in)
-86.106.104.0/25 # ValkyrieHosting (Romania)?
 86.38.156.169/32 # sxyprn.com
 87.247.170.234/32 # shenoto.com
 88.218.17.193/32 # architectureau.com
