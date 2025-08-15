@@ -200,6 +200,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 159.69.53.79/32 # zapalean.com
 159.89.104.113/32 # ilo.org
 161.35.74.213/32 # cs-app.xyz
+162.210.96.129/32 # microsoft 365
 162.55.21.181/32 # khamenei.ir
 164.90.187.137/32 # ekoyapidergisi.org
 164.90.211.63/32 # drudgereport.com
@@ -411,6 +412,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 31.129.106.225/32 # 1800respect.org.au
 34.125.139.171/32 # Linkedin
 34.80.136.10/32 # arabnews.com
+35.179.113.219/32 # coinbase
 35.80.21.115/32 # crazygames.com
 35.85.65.126/32 # foreignpolicy.com
 35.88.54.82/32 # crazygames.com
