@@ -733,6 +733,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 92.246.137.149/32 # foreignpolicy.com
 92.50.249.198/32 # mechel.ru
 92.51.45.76/32 # rescue.org
+93.113.25.186/32 # phishing command & control panel
 93.127.160.4/32 # apple.com
 93.127.223.129/32 # reliefweb.int
 93.188.161.162/32 # nypost.com
