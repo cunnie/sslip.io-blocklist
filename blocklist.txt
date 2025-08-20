@@ -230,6 +230,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 167.235.65.210/32 # merriam-webster.com
 167.71.134.82/32 # thestar.com
 167.88.162.29/32 # Bank of America
+167.88.164.90/32 # North Yorkshire Council notification
 168.119.121.187/32 # proton.me
 168.119.160.60/32 # akharinnews.com
 168.119.185.233/32 # wsj.com
