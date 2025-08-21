@@ -411,6 +411,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 3.67.106.44/32 # nabaliaenergia.com
 3.8.119.3/32 # optical.toys
 31.129.106.225/32 # 1800respect.org.au
+31.56.113.98/32 # Slack
 34.125.139.171/32 # Linkedin
 34.80.136.10/32 # arabnews.com
 35.179.113.219/32 # coinbase
@@ -475,6 +476,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 45.8.147.233/32 # mojogem.com
 45.8.21.98/32 # doostihaa.com
 45.82.251.70/32 # ??
+45.87.251.218/32 # Slack
 45.87.41.92/32 # pogo.com
 45.87.43.205/32 # TikTok Business Center
 45.9.250.228/32 # arabnews.com
