@@ -748,6 +748,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 94.154.32.229/32 # jahannews.com
 94.154.33.158/32 # download.cnet.com
 94.156.175.27/32 # webmail
+94.156.175.28/32 # phishing, can't read, Valkyrie Hosting
 95.164.16.5/32 # sbs.com.au
 95.164.22.254/32 # getdrupe.com
 95.179.140.173/32 # varzesh3.com
