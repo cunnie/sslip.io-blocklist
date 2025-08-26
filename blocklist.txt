@@ -469,6 +469,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 45.59.170.69/32 # isscr.org
 45.61.134.40/32 # download.cnet.com
 45.61.154.115/32 # foreignpolicy.com
+45.61.161.168 # Apple (Korean? Japanese?)
 45.63.117.88/32 # u4.no
 45.67.86.25/32 # stonewall.org.uk
 45.76.95.134/32 # donya-e-eqtesad.com
