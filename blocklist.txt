@@ -569,6 +569,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 65.109.15.45/32 # speedtest.net
 65.109.176.33/32 # eventbrite.com
 65.109.178.204/32 # UNFPA
+65.109.18.60/32 # garden.finance (crypto)?
 65.109.183.180/32 # superuser.com
 65.109.184.35/32 # 1800respect.org.au
 65.109.186.107/32 # coolmathgames.com
