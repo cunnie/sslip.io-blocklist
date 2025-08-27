@@ -348,7 +348,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 195.201.223.122/32 # w3schools.com
 195.201.234.54/32 # nextpit.com
 195.219.251.74/32 # utoronto.ca
-196.251.66.224 # rando sign-in
+196.251.66.224/32 # rando sign-in
 196.251.73.194/32 # Magyar Posta Zrt.
 198.181.36.122/32 # actionaid.org
 199.247.13.156/32 # rog.asus.com
@@ -470,7 +470,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 45.59.170.69/32 # isscr.org
 45.61.134.40/32 # download.cnet.com
 45.61.154.115/32 # foreignpolicy.com
-45.61.161.168 # Apple (Korean? Japanese?)
+45.61.161.168/32 # Apple (Korean? Japanese?)
 45.63.117.88/32 # u4.no
 45.67.86.25/32 # stonewall.org.uk
 45.76.95.134/32 # donya-e-eqtesad.com
