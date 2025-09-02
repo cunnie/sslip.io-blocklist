@@ -44,6 +44,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 104.248.31.5/32 # 47segundos.com
 104.248.41.59/32 # app.teslacrypto.me
 104.248.92.238/32 # esebari.it
+104.36.84.31 # microsoft.com
 107.172.167.252/32 # doctorswithoutborders.org
 107.172.32.185/32 # arabnews.com
 107.174.102.113/32 # getsharex.com
