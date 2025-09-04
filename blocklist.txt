@@ -350,6 +350,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 195.201.234.54/32 # nextpit.com
 195.219.251.74/32 # utoronto.ca
 196.251.66.224/32 # rando sign-in
+196.251.69.189 # Mistral
 196.251.70.227 # webmail
 196.251.73.194/32 # Magyar Posta Zrt.
 198.181.36.122/32 # actionaid.org
