@@ -329,6 +329,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 193.23.55.15/32 # plus.im
 193.24.209.143/32 # globalpolicy.org
 193.24.210.210/32 # uscg.mil
+193.26.115.32 # Apple ID
 194.116.190.25/32 # wechat.com
 194.116.214.162/32 # rt.com
 194.116.214.238/32 # videolan.org
