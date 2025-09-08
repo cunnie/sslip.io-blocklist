@@ -446,6 +446,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 38.60.208.121/32 # arabnews.com
 38.60.255.239/32 # actionaid.org
 38.60.255.84/32 # sputnikglobe.com
+4.236.165.11 # PayPal
 43.134.66.67/24 # Netflix
 43.225.108.140/32 # aimer-web.jp
 43.229.150.11/32 # bicommunitynews.co.uk
