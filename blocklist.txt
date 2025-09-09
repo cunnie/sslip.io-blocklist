@@ -164,6 +164,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 146.19.75.3/32 # slate.com
 146.190.18.201/32 # nytimes.com
 146.190.88.137/32 # rama168.co
+146.235.246.49 # WhatsApp
 146.59.192.162/32 # privacytools.io
 146.70.157.96/32 # slack.com
 147.189.131.181/32 # coolmathgames.com
