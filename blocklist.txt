@@ -656,6 +656,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 82.115.8.149 # hsbc uk
 82.25.34.83 # UNFPA
 83.217.9.85 # apt.ch
+84.32.100.30 # speakeasy / fusionconnect
 84.32.190.7 # slate.com
 85.159.226.73 # substack.com
 85.159.229.32 # pikabu.ru
