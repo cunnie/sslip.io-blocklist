@@ -355,6 +355,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 196.251.69.189 # Mistral
 196.251.70.227 # webmail
 196.251.73.194/32 # Magyar Posta Zrt.
+196.251.81.202 # adobe
 198.181.36.122/32 # actionaid.org
 199.247.13.156/32 # rog.asus.com
 199.247.14.108/32 # brothersroad.org
