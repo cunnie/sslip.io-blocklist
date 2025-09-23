@@ -13,7 +13,7 @@
 # aren't publicly accessible & thus can't be used for phishing attempts.
 
 # File format: blank lines are ignored, "#" are comments and are ignored. One
-# name or CIDR per line.
+# name, IP address, or CIDR per line.
 
 raiffeisen # https://www.rbinternational.com/en/homepage.html
 43-134-66-67 # Netflix, https://nf-43-134-66-67.sslip.io/sg
@@ -506,6 +506,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 46.250.237.97/32 # UNFPA
 46.29.239.47/32 # episcopalrelief.org
 46.31.79.79/32 # onedio.com
+46.37.123.109 # Instagram
 46.4.148.166/32 # unfpa.org
 46.4.162.14/32 # foreignpolicy.com
 46.8.236.174/32 # fardanews.com
