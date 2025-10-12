@@ -174,6 +174,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 148.113.3.154/32 # tacticaltech.org
 149.248.15.223/32 # abc13.com
 15.204.89.177/32 # boursemrooz.com
+15.235.184.26 # byond
 15.235.207.99/32 # ghost.org
 151.80.106.167/32 # rg.ru
 152.42.142.21/32 # tacticaltech.org
