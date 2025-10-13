@@ -503,6 +503,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 46.17.101.214/32 # nytimes.com
 46.17.102.186/32 # cadenza.ir
 46.183.27.211/32 # akharinnews.com
+46.202.130.214 # VermoegensZentrum
 46.249.100.129/32 # theintercept.com
 46.250.237.97/32 # UNFPA
 46.29.239.47/32 # episcopalrelief.org
