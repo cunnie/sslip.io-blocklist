@@ -254,6 +254,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 172.234.99.74/32 # ente.io
 172.86.105.216/32 # thecafemeow.com
 172.86.106.182/32 # nypost.com
+172.86.117.50 # Banque Nationale
 172.86.65.133/32 # lbry.com
 172.86.70.223/32 # sfsi.org
 172.86.74.137/32 # UNFPA
