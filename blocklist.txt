@@ -261,6 +261,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 172.86.74.137/32 # UNFPA
 172.86.77.127/32 # laco.org
 172.86.77.42/32 # f-droid.org
+172.86.88.198 # HSBC & other banks
 172.93.185.171/32 # ectaco.com
 172.96.191.241/32 # betflik5.info
 174.138.15.168/32 # thecatsite.com
