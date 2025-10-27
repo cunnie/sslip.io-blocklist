@@ -158,6 +158,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 143.42.19.49/32 # gutschein724.de
 144.126.145.43/32 # parsine.com
 144.172.115.99 # Interac
+144.172.94.210 # Interac
 144.202.10.114/32 # deerhunterforum.com
 144.217.18.111/32 # wickr.com
 145.239.54.184/32 # witness.org
