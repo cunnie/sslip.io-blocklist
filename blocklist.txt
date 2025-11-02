@@ -625,6 +625,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 77.105.147.35 # indiatimes.com
 77.221.136.77 # firstpost.com
 77.221.136.78 # worldhealth.net
+77.221.137.56 # Amazon
 77.221.141.201 # telegram
 77.221.151.104 # sputnikglobe.com
 77.221.157.3 # indiatimes.com
