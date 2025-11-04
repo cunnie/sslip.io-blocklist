@@ -227,6 +227,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 165.227.225.17/32 # thestar.com
 167.114.90.232/32 # okala.com
 167.172.150.42/32 # mercari (Japanese)
+167.172.212.184 # Coinbase
 167.234.213.68/32 # brew.sh
 167.235.128.251/32 # spotmyenergy.com
 167.235.149.231/32 # templatemo.com
