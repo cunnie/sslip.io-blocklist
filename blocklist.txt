@@ -34,6 +34,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 104.168.68.225/32 # beparsi.com
 104.168.88.39/32 # bing.com
 104.194.128.126/32 # durva.ir
+104.233.194.10 # TikTok
 104.234.11.35/32 # camspark.com
 104.234.196.206/32 # blizzard.com
 104.234.196.242/32 # unfpa.org
