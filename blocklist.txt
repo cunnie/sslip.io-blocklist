@@ -576,6 +576,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 5.78.117.154/32 # nypost.com
 5.78.51.159/32 # arriyadiyah.com
 5.78.58.233/32 # csmonitor.com
+50.6.4.187 # Amazon Prime
 51.178.236.99/32 # speedify.com
 51.89.156.250/32 # fosfeminista.org
 52.220.134.5/32 # arabnews.com
