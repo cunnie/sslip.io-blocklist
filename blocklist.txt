@@ -329,6 +329,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 188.34.167.93/32 # bazicenter.com
 188.64.13.153/32 # https://188.64.13.153.sslip.io/business Facebook phishing
 192.119.64.121/32 # moeclipse.org
+192.163.161.150 # TikTok
 192.248.159.51/32 # ynet.co.il
 192.9.152.157/32 # slate.com
 192.9.153.69/32 # store.steampowered.com
