@@ -163,6 +163,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 144.172.94.210 # Interac
 144.202.10.114/32 # deerhunterforum.com
 144.217.18.111/32 # wickr.com
+144.31.79.72 # Microsoft
 145.239.54.184/32 # witness.org
 146.103.41.40/32 # amazon
 146.19.247.75/32 # slate.com
