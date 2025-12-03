@@ -178,6 +178,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 147.45.43.91/32 # oca.org
 147.45.78.152/32 # tails.net
 148.113.3.154/32 # tacticaltech.org
+148.253.215.107 # Slack
 149.248.15.223/32 # abc13.com
 15.204.89.177/32 # boursemrooz.com
 15.235.184.26 # byond
