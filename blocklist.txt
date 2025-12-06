@@ -79,6 +79,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 116.203.192.213/32 # inspavo.com
 116.203.196.37/32 # speeddater.co.uk
 116.203.23.38/32 # slack.com
+118.107.59.218 # TikTok
 124.156.207.253/32 # terredeshommes.nl
 124.156.6.174/32 # lalgbtcenter.org
 128.140.10.175/32 # alea-italia.it
