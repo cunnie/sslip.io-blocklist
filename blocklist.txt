@@ -511,6 +511,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 45.87.43.205/32 # TikTok Business Center
 45.9.250.228/32 # arabnews.com
 45.92.111.164/32 # holakoueearchive.co
+45.95.174.89 # sfr.fr
 45.95.233.96/32 # proton.me
 46.101.131.66/32 # gadgetsnow.com
 46.101.72.21/32 # coolmathgames.com
