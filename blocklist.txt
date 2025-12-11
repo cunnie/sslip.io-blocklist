@@ -493,6 +493,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 45.195.69.178/32 # sliding.toys
 45.252.183.181/32 # out.com
 45.252.183.185/32 # nbcnews.com
+45.38.3.121 # Netflix
 45.59.118.106/32 # hootsuite.com
 45.59.118.58/32 # news.gooya.com
 45.59.170.69/32 # isscr.org
