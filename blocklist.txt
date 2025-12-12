@@ -335,6 +335,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 192.119.64.121/32 # moeclipse.org
 192.163.161.150 # TikTok
 192.248.159.51/32 # ynet.co.il
+192.253.229.229 # TikTok
 192.9.152.157/32 # slate.com
 192.9.153.69/32 # store.steampowered.com
 192.9.157.126/32 # obsproject.com
