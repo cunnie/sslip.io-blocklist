@@ -652,6 +652,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 77.91.78.26/32 # xenu.net
 77.92.145.191/32 # atlaq.com
 77.92.151.38/32 # time.is
+78.129.155.147 # Lycos
 78.135.104.164/32 # cesr.org
 78.135.104.19/32 # UNFPA
 78.135.80.144/32 # ebaumsworld.com
