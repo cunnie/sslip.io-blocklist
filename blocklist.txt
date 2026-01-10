@@ -151,6 +151,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 141.95.103.173/32 # rebellion.global
 141.98.119.198/32 # gnupg.org
 141.98.210.133/32 # mastodon.xyz
+141.98.235.244 # Slack
 142.171.230.151/32 # whatsoproudlywehail.org
 142.171.230.250/32 # lanacion.com.ar
 142.171.81.119/32 # aljazeera.net
@@ -164,6 +165,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 144.172.94.210 # Interac
 144.202.10.114/32 # deerhunterforum.com
 144.217.18.111/32 # wickr.com
+144.31.247.106 # Slack
 144.31.79.72 # Microsoft
 145.239.54.184/32 # witness.org
 146.103.41.40/32 # amazon
@@ -318,6 +320,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 185.31.200.36/32 # worldwildlife.org
 185.70.185.70/32 # newsvl.ru
 185.87.48.156/32 # penza-elegant.ru
+185.92.182.83 # Slack
 188.116.25.165/32 # atlasofsurveillance.org
 188.132.188.114/32 # ebaumsworld.com
 188.132.188.25/32 # saatkac.info.tr
