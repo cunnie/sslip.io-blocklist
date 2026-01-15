@@ -597,6 +597,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 54.152.242.38/32 # usatoday.com
 54.214.15.21/32 # untappd.com
 54.229.43.6/32 # csmonitor.com
+54.234.5.223 # ticketmaster
 54.36.119.4/32 # nypost.com
 57.128.107.209/32 # wickr.com
 57.180.206.7/32 # infini-cloud.net
