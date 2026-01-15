@@ -508,6 +508,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 45.61.154.115 # foreignpolicy.com
 45.61.161.168 # Apple (Korean? Japanese?)
 45.63.117.88 # u4.no
+45.66.228.248 # Binance
 45.67.86.25 # stonewall.org.uk
 45.76.95.134 # donya-e-eqtesad.com
 45.8.147.169 # csmonitor.com
