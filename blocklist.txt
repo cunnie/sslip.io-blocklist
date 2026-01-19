@@ -99,6 +99,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 129.80.218.5 # actionaid.org
 13.209.188.54 # mediamba.ssu.ac.kr
 13.235.0.237 # eduloanzm.com
+13.36.237.118 # GitHub
 13.49.239.35 # citylife.az
 13.80.65.209 # last.fm
 132.145.49.90 # tradingview.com
