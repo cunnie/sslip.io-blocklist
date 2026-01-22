@@ -252,6 +252,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 168.119.160.60 # akharinnews.com
 168.119.185.233 # wsj.com
 168.119.94.3 # pcgamesn.com
+168.231.113.180 # n8n
 170.64.134.93 # clarenicholson.com
 170.64.140.55 # waihekecarrental.co.nz
 170.64.170.123 # daronmont.com.au
@@ -642,6 +643,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 68.183.106.84 # EasyWeb Login
 68.183.120.73 # vezafy.com
 68.183.46.0 # tacticaltech.org
+69.62.123.92 # n8n
 70.34.196.214 # foreignpolicy.com
 70.34.216.244 # reliefweb.int
 77.105.147.35 # indiatimes.com
