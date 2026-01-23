@@ -350,6 +350,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 193.123.94.90/32 # sputnikglobe.com
 193.163.200.15/32 # nbcnews.com
 193.168.141.15/32 # minorityrights.org
+193.17.182.172 # Foxnews
 193.23.55.15/32 # plus.im
 193.24.209.143/32 # globalpolicy.org
 193.24.210.210/32 # uscg.mil
