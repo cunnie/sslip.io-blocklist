@@ -394,6 +394,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 206.189.243.3/32 # gameignition.io
 206.189.51.165/32 # obsproject.com
 206.206.104.221/32 # doctorswithoutborders.org
+207.148.116.21 # Apple Store
 207.154.216.14/32 # unfpa.org
 207.154.229.160/32 # haqi.org
 207.246.83.11/32 # foreignpolicy.com
