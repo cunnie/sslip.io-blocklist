@@ -675,6 +675,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 78.135.80.217/32 # ebaumsworld.com
 78.135.80.254/32 # ebaumsworld.com
 78.135.80.44/32 # ebaumsworld.com
+78.141.193.47 # Lycos
 78.141.246.36/32 # wccftech.com
 78.153.139.39/32 # easycomposites.co.uk
 78.47.196.26/32 # dailywire.com
