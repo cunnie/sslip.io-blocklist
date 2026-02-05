@@ -479,6 +479,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 38.54.68.74 # hootsuite.com
 38.54.8.58 # jami.net
 38.54.84.228 # climaterealityproject.org
+38.54.85.248 # TikTok
 38.60.196.184 # celebon.ir
 38.60.208.121 # arabnews.com
 38.60.255.239 # actionaid.org
