@@ -51,6 +51,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 107.172.32.185 # arabnews.com
 107.174.102.113 # getsharex.com
 107.174.172.254 # foreignpolicy.com
+107.174.228.87 # Apple Store
 107.174.63.163 # visitdubai.com
 107.174.92.107 # privacytools.io
 107.175.183.191 # four-paws.org
