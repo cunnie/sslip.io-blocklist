@@ -531,6 +531,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 45.87.251.218/32 # Slack
 45.87.41.92/32 # pogo.com
 45.87.43.205/32 # TikTok Business Center
+45.88.186.173 # Scotiabank
 45.9.250.228/32 # arabnews.com
 45.92.111.164/32 # holakoueearchive.co
 45.95.174.89 # sfr.fr
