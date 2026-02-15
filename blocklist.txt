@@ -198,6 +198,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 152.53.47.35 # theintercept.com
 152.70.94.211 # muckrock.com
 154.12.61.243 # tvb.com
+154.13.7.222 # TikTok shop
 154.16.16.103 # doctorswithoutborders.org
 154.205.130.176 # climaterealityproject.org
 154.205.148.163 # UNFPA
