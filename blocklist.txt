@@ -374,6 +374,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 194.61.120.156/32 # hellopoetry.com
 194.62.251.127/32 # goodreads.com
 194.62.251.128/32 # reliefweb.int
+194.62.55.122 # Foxnews
 194.99.79.28/32  # LinkedIn
 195.123.233.55 # Microsoft
 195.16.74.5/32 # ebaumsworld.com
