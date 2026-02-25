@@ -555,6 +555,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 46.4.148.166 # unfpa.org
 46.4.162.14 # foreignpolicy.com
 46.8.236.174 # fardanews.com
+47.245.106.224 # uzum market
 48.216.217.16 # coinbase
 49.12.0.222 # catholicsforchoice.org
 49.12.103.72 # reliefweb.int
