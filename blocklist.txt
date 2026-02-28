@@ -737,6 +737,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 86.38.156.169/32 # sxyprn.com
 87.247.170.234/32 # shenoto.com
 88.218.17.193/32 # architectureau.com
+88.218.79.18 # Apple / Apple Online Store
 88.99.108.110/32 # download.cnet.com
 88.99.21.170/32 # csmonitor.com
 89.107.62.251/32 # limetorrents.lol
