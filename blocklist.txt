@@ -820,6 +820,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 94.103.92.125 # arriyadiyah.com
 94.130.76.212 # pcgamesn.com
 94.130.78.56 # arabic.rt.com
+94.131.111.62 # Amazon
 94.131.123.13 # sbs.com.au
 94.131.123.161 # drudgereport.com
 94.131.123.230 # columbia.edu
