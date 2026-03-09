@@ -531,6 +531,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 45.66.228.248 # Binance
 45.67.86.25/32 # stonewall.org.uk
 45.76.95.134/32 # donya-e-eqtesad.com
+45.77.237.215 # foxnews.com
 45.8.147.169/32 # csmonitor.com
 45.8.147.233/32 # mojogem.com
 45.8.21.98/32 # doostihaa.com
