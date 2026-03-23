@@ -455,6 +455,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 23.94.253.213/32 # slack.com
 23.94.57.87/32 # nypost.com
 3.135.10.112/32 # popularenlinea.com
+3.141.63.144 # TikTok
 3.147.73.227 # Amazon
 3.237.252.127/32 # cesr.org
 3.6.171.182/32 # hasura.io
