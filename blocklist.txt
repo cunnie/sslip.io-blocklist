@@ -465,6 +465,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 31.214.157.178 # freeimages
 31.56.113.98/32 # Slack
 34.125.139.171/32 # Linkedin
+34.149.137.0 # Herdez
 34.80.136.10/32 # arabnews.com
 35.176.194.163 # .gov.uk grants center of excellence
 35.179.113.219/32 # coinbase
