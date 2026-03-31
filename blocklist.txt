@@ -584,6 +584,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 49.13.214.82/32 # radiopaedia.org
 49.13.84.154/32 # slate.com
 49.13.84.255/32 # linguee.de
+5.129.228.180 # Amazon
 5.161.108.76/32 # shopmeramedical.com
 5.161.138.203/32 # starconfig.com.au
 5.161.149.183/32 # download.cnet.com
