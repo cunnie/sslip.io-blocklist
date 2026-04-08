@@ -59,6 +59,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 107.175.183.191/32 # four-paws.org
 107.175.222.54/32 # download.ir
 107.189.16.42/32 # muckrock.com
+107.189.25.197 # Interac
 107.189.5.14/32 # amazon.co.jp
 108.165.128.113/32 # concern.net
 108.59.199.190/32 # stthomasaquinassociety.org
