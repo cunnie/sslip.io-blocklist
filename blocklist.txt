@@ -841,6 +841,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 94.131.123.13/32 # sbs.com.au
 94.131.123.161/32 # drudgereport.com
 94.131.123.230/32 # columbia.edu
+94.131.3.65 # Apple
 94.154.32.229/32 # jahannews.com
 94.154.33.158/32 # download.cnet.com
 94.156.175.27/32 # webmail
