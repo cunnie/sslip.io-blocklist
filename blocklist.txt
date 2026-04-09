@@ -678,6 +678,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 66.23.193.126 # Interstellar
 66.245.194.10 # laborrights.org
 66.245.197.41 # emailaddresses.com
+66.94.120.142 # UPS
 68.183.106.84 # EasyWeb Login
 68.183.120.73 # vezafy.com
 68.183.46.0 # tacticaltech.org
