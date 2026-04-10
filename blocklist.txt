@@ -15,10 +15,6 @@
 # File format: blank lines are ignored, "#" are comments and are ignored. One
 # name, IP address, or CIDR per line.
 
-raiffeisen # https://www.rbinternational.com/en/homepage.html
-43-134-66-67 # Netflix, https://nf-43-134-66-67.sslip.io/sg
-2601:646:100:69f7:cafe:bebe:cafe:bebe/112 # personal (Comcast) IPv6 range for testing blocklist
-# 23.137.104.229/32 # reviewscaribbean.com # See https://github.com/cunnie/sslip.io/issues/78
 103.161.184.149/32 # UNFPA
 103.231.75.79/32 # pcgamesn.com
 103.252.116.60 # malware distribution
@@ -456,6 +452,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 216.9.227.8/32 # frontlineaids.org
 217.144.188.8/32 # sputnikglobe.com
 217.69.13.138/32 # download.cnet.com
+# 23.137.104.229/32 # reviewscaribbean.com # See https://github.com/cunnie/sslip.io/issues/78
 23.162.152.72/32 # fruitcraft.co
 23.177.136.104/32 # UNFPA
 23.254.161.20/32 # 2shared.com
@@ -507,6 +504,7 @@ raiffeisen # https://www.rbinternational.com/en/homepage.html
 38.60.255.239/32 # actionaid.org
 38.60.255.84/32 # sputnikglobe.com
 4.236.165.11 # PayPal
+43.134.66.67 # Netflix, https://nf-43-134-66-67.sslip.io/sg
 43.134.66.67/24 # Netflix
 43.225.108.140/32 # aimer-web.jp
 43.229.150.11/32 # bicommunitynews.co.uk
