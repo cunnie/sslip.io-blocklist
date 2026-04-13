@@ -521,6 +521,7 @@
 45.145.4.81/32 # slate.com
 45.154.98.208 # qnb (Qatar National Bank)
 45.156.24.10/32 # amazon.co.jp
+45.156.27.4 # Fox News
 45.158.15.124/32 # ebaumsworld.com
 45.158.15.135/32 # ebaumsworld.com
 45.158.15.184/32 # ebaumsworld.com
