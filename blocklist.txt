@@ -729,6 +729,7 @@
 80.253.254.10/32 # ebaumsworld.com
 80.253.255.2/32 # ebaumsworld.com
 80.66.87.109/32 # NBC news
+80.71.224.105 # Spotify
 80.87.206.55/32 # dalfak.com
 81.161.238.97/32 # arriyadiyah.com
 81.19.137.126/32 # rcsb.org
