@@ -345,6 +345,7 @@
 188.132.192.168/32 # usatoday.com
 188.132.209.133/32 # ebaumsworld.com
 188.132.209.230/32 # ebaumsworld.com
+188.166.144.179 # Revolut
 188.166.174.56/32 # crypt.ee
 188.166.39.77/32 # aljazeera.net
 188.245.104.226/32 # afp.com
