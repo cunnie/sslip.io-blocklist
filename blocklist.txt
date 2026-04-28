@@ -315,6 +315,7 @@
 178.79.142.33/32 # aljazeera.net
 179.61.249.10/32 # csmonitor.com
 18.184.57.83/32 # shenoto.com
+18.216.136.92 # Bancolombia
 18.218.70.131/32 # nuevoleon.travel
 18.219.211.22/32 # velhaestancia.com.br
 181.214.208.102/32 # telegram
