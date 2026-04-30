@@ -343,6 +343,7 @@
 185.70.185.70/32 # newsvl.ru
 185.87.48.156/32 # penza-elegant.ru
 185.92.182.83 # Slack
+187.77.204.153 # TD Bank
 188.116.25.165/32 # atlasofsurveillance.org
 188.132.188.114/32 # ebaumsworld.com
 188.132.188.25/32 # saatkac.info.tr
