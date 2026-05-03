@@ -128,6 +128,7 @@
 137.184.224.51/32 # ford-market.com.ua
 137.184.226.70/32 # blogease.co
 137.220.157.25 # TikTok
+138.124.103.200 # Apple
 138.197.128.25/32 # phoenixagritech.com
 138.197.183.135/32 # actionaid.org
 138.68.138.112/32 # thestar.com
