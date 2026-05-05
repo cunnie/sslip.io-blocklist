@@ -274,6 +274,7 @@
 170.65.0.0/16 # TTEC
 172.104.203.95/32 # unfpa.org
 172.105.107.43/32 # bestchildrensdentistsudbury.ca
+172.182.204.23 # JPMorgan Chase
 172.188.114.154/32 # jahannews.com
 172.232.142.143/32 # f-droid.org
 172.232.146.24/32 # unfpa.org
