@@ -770,6 +770,7 @@
 86.106.104.8/32 # nominalia
 86.38.156.169/32 # sxyprn.com
 87.247.170.234/32 # shenoto.com
+88.198.203.52 # Kaufland
 88.218.17.193/32 # architectureau.com
 88.218.79.18 # Apple / Apple Online Store
 88.99.108.110/32 # download.cnet.com
