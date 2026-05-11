@@ -459,6 +459,7 @@
 213.238.167.197/32 # ebaumsworld.com
 213.238.167.51/32 # ebaumsworld.com
 213.238.167.52/32 # ebaumsworld.com
+216.194.172.107 # Costco
 216.24.189.4/32 # undp.org
 216.9.227.101/32 # saatkac.info.tr
 216.9.227.8/32 # frontlineaids.org
