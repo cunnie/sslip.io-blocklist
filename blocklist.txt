@@ -99,6 +99,7 @@
 128.140.97.90/32 # kff.org
 129.151.147.169/32 # terredeshommes.org
 129.80.218.5/32 # actionaid.org
+13.159.98.193 # Amazon
 13.209.188.54/32 # mediamba.ssu.ac.kr
 13.235.0.237/32 # eduloanzm.com
 13.36.237.118 # GitHub
