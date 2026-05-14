@@ -657,6 +657,7 @@
 57.180.206.7/32 # infini-cloud.net
 62.113.255.125/32 # pogo.com
 62.171.130.122 # https://pagos.acueducto.com.co/
+64.120.94.224 # Deutsche Telekom
 64.176.189.63/32 # climaterealityproject.org
 64.188.74.204 # Apple / iCloud
 64.226.82.36/32 # liveayurprana.com
