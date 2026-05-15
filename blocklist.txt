@@ -85,6 +85,7 @@
 124.156.207.253/32 # terredeshommes.nl
 124.156.6.174/32 # lalgbtcenter.org
 128.140.10.175/32 # alea-italia.it
+128.140.109.240 # Notion
 128.140.13.221/32 # buyrealfollows.com
 128.140.15.52/32 # account4web.com
 128.140.36.89/32 # elbapit.it
