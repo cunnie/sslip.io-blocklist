@@ -391,6 +391,7 @@
 194.124.43.116/32 # arabnews.com
 194.146.123.175/32 # kickasstorrents.to
 194.15.152.82/32 # csmonitor.com
+194.163.175.75 # Claude
 194.26.232.15/32 # slate.com
 194.28.225.187/32 # ymca.int
 194.36.170.226/32 # sputnikglobe.com
