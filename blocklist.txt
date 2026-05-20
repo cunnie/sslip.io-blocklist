@@ -706,6 +706,7 @@
 70.34.216.244/32 # reliefweb.int
 72.60.104.60 # Apple / App Store
 72.60.56.106 # Performa
+72.61.214.93 # TikTok
 77.105.147.35/32 # indiatimes.com
 77.221.136.77/32 # firstpost.com
 77.221.136.78/32 # worldhealth.net
