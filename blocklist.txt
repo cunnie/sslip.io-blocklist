@@ -471,6 +471,7 @@
 217.69.13.138/32 # download.cnet.com
 23.162.152.72/32 # fruitcraft.co
 23.177.136.104/32 # UNFPA
+23.235.221.235 # https://www.optimum.net
 23.254.161.20/32 # 2shared.com
 23.88.103.245/32 # laughfactory.com
 23.94.174.148/32 # nbcnews.com
