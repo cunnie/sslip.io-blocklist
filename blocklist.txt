@@ -324,6 +324,7 @@
 18.216.136.92 # Bancolombia
 18.218.70.131/32 # nuevoleon.travel
 18.219.211.22/32 # velhaestancia.com.br
+18.223.143.133 # Kraken
 181.214.208.102/32 # telegram
 184.174.96.189/32 # mozilla.org
 185.106.94.156/32 # indiatimes.com
