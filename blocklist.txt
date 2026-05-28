@@ -655,6 +655,7 @@
 51.89.156.250/32 # fosfeminista.org
 52.220.134.5/32 # arabnews.com
 54.152.242.38/32 # usatoday.com
+54.204.89.15 # Bank of Philippine Islands (BPI) (https://www.bpi.com.ph)
 54.214.15.21/32 # untappd.com
 54.229.43.6/32 # csmonitor.com
 54.234.5.223 # ticketmaster
