@@ -176,6 +176,7 @@
 144.172.94.210 # Interac
 144.202.10.114/32 # deerhunterforum.com
 144.217.18.111/32 # wickr.com
+144.24.58.105 # SQL injection vulnerability in Ghost (CVE-2026-26980)
 144.31.14.212 # Slack
 144.31.234.53 # Fox News
 144.31.247.106 # Slack
