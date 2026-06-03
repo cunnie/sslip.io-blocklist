@@ -654,6 +654,7 @@
 50.6.4.187 # Amazon Prime
 51.178.236.99/32 # speedify.com
 51.89.156.250/32 # fosfeminista.org
+51.89.204.166 # Google
 52.220.134.5/32 # arabnews.com
 54.152.242.38/32 # usatoday.com
 54.204.89.15 # Bank of Philippine Islands (BPI) (https://www.bpi.com.ph)
