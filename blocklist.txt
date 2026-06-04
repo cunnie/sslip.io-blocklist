@@ -264,6 +264,7 @@
 167.235.29.143/32 # blog.denic.de
 167.235.65.210/32 # merriam-webster.com
 167.71.134.82/32 # thestar.com
+167.86.96.35 # Etsy
 167.88.162.29/32 # Bank of America
 167.88.164.90/32 # North Yorkshire Council notification
 167.99.110.33 # coinbase
