@@ -770,6 +770,7 @@
 83.217.9.85 # apt.ch
 84.32.100.30 # speakeasy / fusionconnect
 84.32.190.7 # slate.com
+85.155.176.74 # Apple
 85.159.226.73 # substack.com
 85.159.229.32 # pikabu.ru
 85.159.230.171 # actionaid.org
