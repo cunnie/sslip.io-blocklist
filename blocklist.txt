@@ -429,6 +429,7 @@
 198.181.36.122/32 # actionaid.org
 199.247.13.156/32 # rog.asus.com
 199.247.14.108/32 # brothersroad.org
+199.250.203.93 # Xfinity
 2.24.124.66 # Mercado Livre (Brazil)
 20.55.32.72 # hxxps://bofa-tablas-v2.20-55-32-72[.]sslip[.]io/#/user
 205.172.56.59/32 # transformunow.org
