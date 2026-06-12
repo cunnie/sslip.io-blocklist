@@ -586,6 +586,7 @@
 45.87.43.205/32 # TikTok Business Center
 45.88.186.173 # Scotiabank
 45.9.250.228/32 # arabnews.com
+45.90.237.175 # Spotify
 45.92.111.164/32 # holakoueearchive.co
 45.95.174.89 # sfr.fr
 45.95.233.96/32 # proton.me
