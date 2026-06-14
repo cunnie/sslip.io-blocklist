@@ -388,6 +388,7 @@
 192.9.153.69 # store.steampowered.com
 192.9.157.126 # obsproject.com
 192.99.210.176 # undp.org
+193.111.125.8 # Trust Wallet
 193.123.94.90 # sputnikglobe.com
 193.163.200.15 # nbcnews.com
 193.168.141.15 # minorityrights.org
