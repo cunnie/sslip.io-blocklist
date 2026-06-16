@@ -317,6 +317,7 @@
 176.222.53.110/32 # freepik.com
 176.222.55.49/32 # slate.com
 176.58.111.183/32 # this-person-does-not-exist.com
+178.105.215.186 # BetKing
 178.128.194.220/32 # uisp.com
 178.128.253.192/32 # aljazeera.net
 178.128.38.7/32 # gitlab-staging.riders.ai
