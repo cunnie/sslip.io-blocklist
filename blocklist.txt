@@ -575,6 +575,7 @@
 45.59.118.58/32 # news.gooya.com
 45.59.170.69/32 # isscr.org
 45.61.134.40/32 # download.cnet.com
+45.61.136.57 # Microsoft
 45.61.154.115/32 # foreignpolicy.com
 45.61.161.168/32 # Apple (Korean? Japanese?)
 45.63.117.88/32 # u4.no
