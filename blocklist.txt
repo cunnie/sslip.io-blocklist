@@ -168,6 +168,7 @@
 142.171.230.151 # whatsoproudlywehail.org
 142.171.230.250 # lanacion.com.ar
 142.171.81.119 # aljazeera.net
+142.4.38.74 # Trust Wallet
 142.93.161.236 # landmarkproductions.live
 142.93.238.38 # almanar.com.lb
 142.93.46.4 # thestar.com
