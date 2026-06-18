@@ -140,6 +140,7 @@
 138.68.77.97/32 # laborrights.org
 139.144.97.232/32 # dtdcaustralia.com.au
 139.180.132.86 # Apple
+139.180.155.59 # various Japanese banks
 139.198.158.74/32 # @yongzhi-weee: not obtain/acquiring a ICP license
 139.28.232.233/32 # khabarcanada.ca
 139.59.176.152/32 # thestar.com
