@@ -674,6 +674,7 @@
 5.78.58.233/32 # csmonitor.com
 50.6.227.32 # Cash App
 50.6.4.187 # Amazon Prime
+50.6.4.99 # Costco
 51.178.236.99/32 # speedify.com
 51.89.156.250/32 # fosfeminista.org
 51.89.204.166 # Google
