@@ -382,6 +382,7 @@
 188.34.167.93/32 # bazicenter.com
 188.64.13.153/32 # https://188.64.13.153.sslip.io/business Facebook phishing
 192.119.64.121/32 # moeclipse.org
+192.145.236.112 # Costco
 192.163.161.150 # TikTok
 192.248.159.51/32 # ynet.co.il
 192.248.166.135 # TikTok
