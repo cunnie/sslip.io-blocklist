@@ -241,6 +241,7 @@
 159.89.104.113/32 # ilo.org
 161.35.74.213/32 # cs-app.xyz
 162.210.96.129/32 # microsoft 365
+162.243.216.143 # TikTok
 162.55.21.181/32 # khamenei.ir
 164.90.187.137/32 # ekoyapidergisi.org
 164.90.211.63/32 # drudgereport.com
