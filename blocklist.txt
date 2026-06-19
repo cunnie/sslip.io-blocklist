@@ -171,6 +171,7 @@
 142.171.81.119/32 # aljazeera.net
 142.4.38.74 # Trust Wallet
 142.93.161.236/32 # landmarkproductions.live
+142.93.207.151 # Microsoft
 142.93.238.38/32 # almanar.com.lb
 142.93.46.4/32 # thestar.com
 143.42.19.49/32 # gutschein724.de
