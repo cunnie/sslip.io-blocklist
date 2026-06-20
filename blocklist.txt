@@ -100,6 +100,7 @@
 128.140.92.102/32 # chinasentry.com
 128.140.97.90/32 # kff.org
 129.121.113.18 # Costco
+129.121.114.197 # Costco
 129.151.147.169/32 # terredeshommes.org
 129.80.218.5/32 # actionaid.org
 13.159.98.193 # Amazon
