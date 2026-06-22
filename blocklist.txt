@@ -887,6 +887,7 @@
 92.118.114.109/32 # slate.com
 92.119.124.99/32 # arabnews.com
 92.119.59.97/32 # arthive.com
+92.205.111.135 # Banque Misr (بنك مصر)
 92.246.136.54/32 # slate.com
 92.246.137.149/32 # foreignpolicy.com
 92.50.249.198/32 # mechel.ru
