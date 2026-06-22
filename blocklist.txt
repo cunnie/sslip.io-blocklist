@@ -75,6 +75,7 @@
 109.172.80.235 # slate.com
 109.176.198.98 # beparsi.com
 109.61.95.86 # wickr.com
+111.68.15.82 # Cloudflare
 113.30.191.120 # arxiv.org
 116.202.111.124 # mega.io
 116.202.15.101 # nextpit.com
