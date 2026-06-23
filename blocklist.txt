@@ -234,6 +234,7 @@
 157.90.28.252/32 # fruitcraft.co
 158.160.32.235/32 # atomyze.ru
 158.178.229.68/32 # usatoday.com
+158.247.223.122 # Some Japanese site
 159.223.3.6/32 # oratie.com
 159.65.122.63/32 # upgrade.rs
 159.69.122.252/32 # junior-report.media
