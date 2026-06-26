@@ -130,6 +130,7 @@
 135.181.37.8/32 # cesr.org
 135.181.89.225/32 # foodpix.ai
 135.237.45.132/32 # coinbase
+136.243.60.98 # malware
 136.244.84.246/32 # ilo.org
 136.244.84.68/32 # pirateparty.org.au
 137.184.224.51/32 # ford-market.com.ua
