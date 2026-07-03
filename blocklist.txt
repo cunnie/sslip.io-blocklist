@@ -651,6 +651,7 @@
 5.161.43.35 # Abyss
 5.161.44.48 # nypost.com
 5.161.56.94 # nypost.com
+5.161.68.244 # Facebook
 5.180.30.211 # jadidonline.com
 5.182.36.181 # Protonmail
 5.189.221.55 # amazon.com
