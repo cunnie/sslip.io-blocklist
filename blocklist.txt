@@ -508,6 +508,7 @@
 23.94.174.148 # nbcnews.com
 23.94.253.213 # slack.com
 23.94.57.87 # nypost.com
+3.129.18.10 # Bancolombia / Nequi
 3.135.10.112 # popularenlinea.com
 3.141.63.144 # TikTok
 3.147.73.227 # Amazon
