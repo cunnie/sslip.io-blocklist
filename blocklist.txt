@@ -694,6 +694,7 @@
 51.89.204.166 # Google
 52.220.134.5/32 # arabnews.com
 54.152.242.38/32 # usatoday.com
+54.187.9.45 # Amazon
 54.204.89.15 # Bank of Philippine Islands (BPI) (https://www.bpi.com.ph)
 54.214.15.21/32 # untappd.com
 54.229.43.6/32 # csmonitor.com
