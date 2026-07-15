@@ -707,6 +707,7 @@
 64.176.189.63/32 # climaterealityproject.org
 64.188.74.204 # Apple / iCloud
 64.226.82.36/32 # liveayurprana.com
+64.227.132.89 # Banco Popular
 64.227.45.81/32 # thestar.com
 65.108.247.57/32 # pcgamesn.com
 65.108.58.0/32 # arvehaldus.ee
