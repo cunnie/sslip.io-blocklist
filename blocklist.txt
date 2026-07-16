@@ -557,6 +557,7 @@
 4.236.165.11 # PayPal
 43.134.66.67 # Netflix, https://nf-43-134-66-67.sslip.io/sg
 43.134.66.67/24 # Netflix
+43.173.94.152 # ChatGPT
 43.225.108.140/32 # aimer-web.jp
 43.229.150.11/32 # bicommunitynews.co.uk
 44.192.53.252/32 # imagene-ai.com
