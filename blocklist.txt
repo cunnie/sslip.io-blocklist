@@ -315,6 +315,7 @@
 172.93.185.171/32 # ectaco.com
 172.96.191.241/32 # betflik5.info
 173.212.236.59 # Bancolombia
+173.212.243.5 # Bancolombia
 173.231.200.13 # Costco
 173.231.229.189 # OPTUS
 174.138.15.168/32 # thecatsite.com
