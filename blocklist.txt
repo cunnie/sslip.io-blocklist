@@ -491,6 +491,7 @@
 212.64.223.72/32 # ebaumsworld.com
 212.83.46.41/32 # isscr.org
 213.111.149.123 # Roblox
+213.176.18.145 # Instagram
 213.238.167.10/32 # ebaumsworld.com
 213.238.167.197/32 # ebaumsworld.com
 213.238.167.51/32 # ebaumsworld.com
