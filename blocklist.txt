@@ -576,6 +576,7 @@
 45.141.118.210 # Lycos
 45.144.234.170 # rfa.org
 45.145.4.81 # slate.com
+45.150.131.146 # TikTok
 45.154.98.208 # qnb (Qatar National Bank)
 45.156.24.10 # amazon.co.jp
 45.156.27.4 # Fox News
