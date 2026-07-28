@@ -802,6 +802,7 @@
 80.253.255.2 # ebaumsworld.com
 80.66.87.109 # NBC news
 80.71.224.105 # Spotify
+80.78.30.192 # Banco Galicia
 80.87.206.55 # dalfak.com
 81.161.238.97 # arriyadiyah.com
 81.19.137.126 # rcsb.org
