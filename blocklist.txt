@@ -316,6 +316,7 @@
 172.86.88.198 # HSBC & other banks
 172.93.185.171 # ectaco.com
 172.96.191.241 # betflik5.info
+173.212.212.74 # OKEx
 173.212.236.59 # Bancolombia
 173.212.243.5 # Bancolombia
 173.231.200.13 # Costco
