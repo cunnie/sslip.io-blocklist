@@ -456,6 +456,7 @@
 2.24.124.66 # Mercado Livre (Brazil)
 20.55.22.3 # Costco
 20.55.32.72 # hxxps://bofa-tablas-v2.20-55-32-72[.]sslip[.]io/#/user
+20.97.5.57 # TikTok
 205.172.56.59 # transformunow.org
 206.189.140.121 # gadgetsnow.com
 206.189.243.3 # gameignition.io
