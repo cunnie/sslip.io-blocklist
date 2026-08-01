@@ -452,6 +452,7 @@
 196.251.81.202 # adobe
 196.251.86.108 # NetBSD
 198.181.36.122 # actionaid.org
+199.231.235.28 # Banco Galicia
 199.247.13.156 # rog.asus.com
 199.247.14.108 # brothersroad.org
 199.250.203.93 # Xfinity
