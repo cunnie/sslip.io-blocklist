@@ -476,6 +476,7 @@
 209.38.250.14 # concern.net
 209.38.38.51 # cesr.org
 209.54.104.181 # Apple
+212.108.83.24 # acquisition.com
 212.132.124.61 # key2gaming.com
 212.24.110.231 # seclists.org
 212.64.193.246 # ebaumsworld.com
