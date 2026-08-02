@@ -9,3 +9,17 @@ When nip.io/sslip.io receives a DNS query for an IP address which appears in
 this list, instead of returning the expected IP address, it returns the IP
 address of a special webserver, <https://blocked.nip.io>, which warns the user
 that the site has been blocked.
+
+### Contributing
+
+The easiest way to contribute is to email [abuse@nip.io](mailto:abuse@nip.io) with the offending URL and reason, e.g.
+
+> Please block 101.32.189.230.nip.io because it's impersonating TikTok's shop
+
+Developers may alternatively submit a [pull request](https://github.com/cunnie/sslip.io-blocklist/pulls):
+
+- edit `blocklist.txt`
+- add the line of the offending URL's IP address and the brand it's impersonating, e.g.
+  > 101.32.189.230 # TikTok
+- keep the file sorted
+- make a good commit message. Look at [previous commits](https://github.com/cunnie/sslip.io-blocklist/commits/main/) for inspiration
