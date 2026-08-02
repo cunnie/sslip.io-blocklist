@@ -1,19 +1,19 @@
-# List of "Forbidden" (blocked) names & CIDRs
+# List of "Forbidden" IP addresses and CIDRs
 
-# This is a list of forbidden names and CIDRs that are often used in phishing
-# attacks. We won't resolve these hostnames to their embedded IP address (e.g.
-# we won't resolve "raiffeisen.94.228.116.140.sslip.io" to 94.228.116.140);
-# instead, we'll resolve it to one of our server's, blocked.sslip.io's, IP
-# addresses, 52.0.56.137 or 2600:1f18:aaf:6900::a.  Similarly, we won't resolve
-# nf-43-134-66-67.sslip.io to 43.134.66.67 because it falls within one of our
-# blocked CIDRs (43.134.66.67/24).
+# This is a list of forbidden IP addresses (99.9%) and CIDRs (0.1%) used in
+# phishing attacks. We won't resolve these hostnames to their embedded IP
+# address.
 
-# Forbidden names are resolved as expected for private networks (e.g.
-# "raiffeisen.192.168.0.1.sslip.io" resolves to 192.168.0.1) because they
-# aren't publicly accessible & thus can't be used for phishing attempts.
+# For example, if the address 11.22.33.44 appears in this list, we won't resolve
+# "11.22.33.44.sslip.io" to 11.22.33.44; instead, we'll resolve it to our
+# special webserver blocked.sslip.io's IP addresses, 64.176.22.9 or
+# 2001:19f0:c800:2315::.
 
-# File format: blank lines are ignored, "#" are comments and are ignored. One
-# name, IP address, or CIDR per line.
+# Similarly, we won't resolve nf-43-134-66-67.sslip.io to 43.134.66.67 because it
+# falls within one of our blocked CIDRs (43.134.66.67/24).
+
+# File format: blank lines are ignored, "#" are comments and are ignored. One IP
+# address or CIDR per line.
 
 101.32.189.230 # TikTok
 103.161.184.149 # UNFPA
