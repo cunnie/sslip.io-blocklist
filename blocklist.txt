@@ -311,6 +311,7 @@
 172.234.99.74 # ente.io
 172.86.105.216 # thecafemeow.com
 172.86.106.182 # nypost.com
+172.86.110.55 # telsur
 172.86.117.50 # Banque Nationale
 172.86.65.133 # lbry.com
 172.86.70.223 # sfsi.org
