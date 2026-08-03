@@ -16,6 +16,7 @@
 # address or CIDR per line.
 
 101.32.189.230 # TikTok
+101.99.90.126 # Amazon
 103.161.184.149 # UNFPA
 103.231.75.79 # pcgamesn.com
 103.252.116.60 # malware distribution
