@@ -350,6 +350,7 @@
 178.73.210.233 # aljazeera.com
 178.79.142.33 # aljazeera.net
 179.43.140.198 # Allica Bank
+179.43.175.10 # Revolut
 179.61.249.10 # csmonitor.com
 18.184.57.83 # shenoto.com
 18.216.136.92 # Bancolombia
