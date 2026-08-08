@@ -114,6 +114,7 @@
 13.49.239.35 # citylife.az
 13.51.233.237 # Netflix
 13.63.172.241 # Costco
+13.68.154.26 # Costco
 13.80.65.209 # last.fm
 132.145.49.90 # tradingview.com
 132.145.89.187 # oneworld.net
