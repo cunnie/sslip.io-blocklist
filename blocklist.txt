@@ -470,6 +470,7 @@
 20.124.199.183 # Costco
 20.55.22.3 # Costco
 20.55.32.72 # hxxps://bofa-tablas-v2.20-55-32-72[.]sslip[.]io/#/user
+20.85.241.39 # Costco
 20.97.5.57 # TikTok
 204.152.217.239 # getdial.ai
 205.172.56.59 # transformunow.org
