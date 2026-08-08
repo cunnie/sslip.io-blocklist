@@ -465,6 +465,7 @@
 199.250.203.93 # Xfinity
 2.24.124.66 # Mercado Livre (Brazil)
 20.119.100.146 # Costco
+20.124.191.59 # Costco
 20.124.199.183 # Costco
 20.55.22.3 # Costco
 20.55.32.72 # hxxps://bofa-tablas-v2.20-55-32-72[.]sslip[.]io/#/user
