@@ -118,6 +118,7 @@
 13.80.65.209 # last.fm
 132.145.49.90 # tradingview.com
 132.145.89.187 # oneworld.net
+133.242.233.224 # Aeon Card
 134.122.66.162 # flymizar.com
 134.122.75.15 # bathelalnada.com
 134.209.181.141 # bluehedgerelocators.com
