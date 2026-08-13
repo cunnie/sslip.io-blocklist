@@ -703,6 +703,7 @@
 5.42.106.54 # csmonitor.com
 5.42.78.43 # farayad.co
 5.42.82.86 # foreignpolicy.com
+5.45.101.76 # Phantom Technologies Inc
 5.45.93.79 # indiatimes.com
 5.75.140.81 # kishss2.ir
 5.75.193.98 # muscleandfitness.com
