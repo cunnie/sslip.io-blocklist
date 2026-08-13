@@ -63,6 +63,7 @@
 107.189.25.197 # Interac
 107.189.5.14 # amazon.co.jp
 108.165.128.113 # concern.net
+108.174.155.6 # Investec
 108.59.199.190 # stthomasaquinassociety.org
 108.61.171.127 # ple.com.au
 108.61.198.77 # download.cnet.com
