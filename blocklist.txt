@@ -743,6 +743,7 @@
 62.171.130.122 # https://pagos.acueducto.com.co/
 64.120.94.224 # Deutsche Telekom
 64.176.189.63 # climaterealityproject.org
+64.176.22.9 # Costco
 64.188.74.204 # Apple / iCloud
 64.226.82.36 # liveayurprana.com
 64.227.132.89 # Banco Popular
