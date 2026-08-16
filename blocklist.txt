@@ -345,6 +345,7 @@
 176.222.55.49 # slate.com
 176.58.111.183 # this-person-does-not-exist.com
 178.105.215.186 # BetKing
+178.105.92.231 # Instagram
 178.128.194.220 # uisp.com
 178.128.253.192 # aljazeera.net
 178.128.38.7 # gitlab-staging.riders.ai
