@@ -194,6 +194,7 @@
 144.172.94.210 # Interac
 144.202.10.114 # deerhunterforum.com
 144.217.18.111 # wickr.com
+144.24.57.205 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability"
 144.24.58.105 # SQL injection vulnerability in Ghost (CVE-2026-26980)
 144.31.14.212 # Slack
 144.31.234.53 # Fox News
@@ -520,6 +521,7 @@
 212.64.223.72 # ebaumsworld.com
 212.83.46.41 # isscr.org
 213.111.149.123 # Roblox
+213.171.208.189 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability"
 213.176.18.145 # Instagram
 213.238.167.10 # ebaumsworld.com
 213.238.167.197 # ebaumsworld.com
@@ -794,6 +796,7 @@
 72.60.104.60 # Apple / App Store
 72.60.56.106 # Performa
 72.60.78.94 # Pegadaian
+72.61.203.163 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability..."
 72.61.214.93 # TikTok
 77.105.147.35 # indiatimes.com
 77.221.136.77 # firstpost.com
@@ -829,6 +832,7 @@
 79.137.199.3 # iotdesignpro.com
 79.137.202.34 # "The Global Fund"
 79.137.202.87 # circumcision.org
+80.225.199.157 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability"
 80.240.21.194 # bigdev.ir
 80.242.56.112 # dailywire.com
 80.251.219.99 # kickasstorrents.to
