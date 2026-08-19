@@ -943,6 +943,7 @@
 91.107.255.196 # mastodon.xyz
 91.108.241.48 # digg.com
 91.192.81.2 # nypost.com
+91.202.233.230 # Interac
 91.207.183.233 # slate.com
 91.210.169.16 # overwiki.ru
 91.216.104.115 # Google
