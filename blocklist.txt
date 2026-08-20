@@ -949,6 +949,7 @@
 91.216.104.115 # Google
 91.225.217.17 # weather.com
 91.241.49.48 # wordreference.com
+91.98.86.167 # Microsoft
 92.118.114.109 # slate.com
 92.119.124.99 # arabnews.com
 92.119.59.97 # arthive.com
