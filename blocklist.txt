@@ -484,6 +484,7 @@
 204.152.217.239 # getdial.ai
 205.172.56.59 # transformunow.org
 206.189.140.121 # gadgetsnow.com
+206.189.21.72 # polymarket.com
 206.189.243.3 # gameignition.io
 206.189.51.165 # obsproject.com
 206.206.104.221 # doctorswithoutborders.org
