@@ -640,6 +640,7 @@
 45.76.95.134 # donya-e-eqtesad.com
 45.77.237.215 # foxnews.com
 45.79.121.173 # Venmo
+45.79.121.173 # venmo.com
 45.8.147.169 # csmonitor.com
 45.8.147.233 # mojogem.com
 45.8.21.98 # doostihaa.com
