@@ -859,6 +859,7 @@
 82.25.34.83 # UNFPA
 82.25.39.168 # "redirects to a Russian App download site" "it does look phish-y"
 83.217.9.85 # apt.ch
+84.200.24.243 # Microsoft
 84.32.100.30 # speakeasy / fusionconnect
 84.32.190.7 # slate.com
 85.155.176.74 # Apple
