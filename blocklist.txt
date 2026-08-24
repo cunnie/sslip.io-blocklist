@@ -341,6 +341,7 @@
 173.231.229.189 # OPTUS
 174.138.15.168 # thecatsite.com
 174.138.27.137 # denniswu.com
+174.138.39.196 # "Connect Wallet"
 176.105.255.204 # businesstoday.in
 176.120.64.60 # engenderhealth.org
 176.123.1.51 # bendodson.com
