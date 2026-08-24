@@ -567,6 +567,7 @@
 35.176.194.163 # .gov.uk grants center of excellence
 35.179.113.219 # coinbase
 35.207.208.144 # Fidelity
+35.216.100.240 # Bithumb Co.,Ltd.
 35.42.6.166 # Game Cheat Software
 35.80.21.115 # crazygames.com
 35.85.65.126 # foreignpolicy.com
