@@ -435,6 +435,7 @@
 193.168.141.15 # minorityrights.org
 193.17.182.172 # Foxnews
 193.23.55.15 # plus.im
+193.233.126.53 # code injection
 193.24.209.143 # globalpolicy.org
 193.24.210.210 # uscg.mil
 193.26.115.32 # Apple ID
