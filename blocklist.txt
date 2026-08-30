@@ -109,6 +109,7 @@
 129.121.114.197 # Costco
 129.151.147.169 # terredeshommes.org
 129.80.218.5 # actionaid.org
+13.140.150.177 # Bank al Etihad
 13.159.98.193 # Amazon
 13.209.188.54 # mediamba.ssu.ac.kr
 13.235.0.237 # eduloanzm.com
