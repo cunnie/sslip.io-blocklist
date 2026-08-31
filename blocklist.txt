@@ -227,6 +227,7 @@
 15.235.207.99 # ghost.org
 15.235.86.211 # Wells Fargo
 151.243.190.72 # Robinhood
+151.244.30.56 # Tasheel Finance
 151.245.163.92 # Fox News
 151.247.22.39 # Nordic Financial CERT
 151.80.106.167 # rg.ru
