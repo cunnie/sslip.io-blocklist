@@ -486,6 +486,7 @@
 20.124.191.59 # Costco
 20.124.199.183 # Costco
 20.169.219.52 # Costco
+20.201.66.162 # Comprovação BNDES
 20.55.22.3 # Costco
 20.55.32.72 # hxxps://bofa-tablas-v2.20-55-32-72[.]sslip[.]io/#/user
 20.85.241.39 # Costco
