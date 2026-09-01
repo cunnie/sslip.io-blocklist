@@ -30,6 +30,7 @@
 103.82.195.192 # TikTok
 104.156.225.37 # forums.prsguitars.com
 104.167.215.178 # now.gg
+104.168.101.22 # Wells Fargo
 104.168.54.193 # certbot.eff.org
 104.168.68.225 # beparsi.com
 104.168.88.39 # bing.com
