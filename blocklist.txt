@@ -623,6 +623,7 @@
 45.138.74.44 # secfirst.org
 45.14.247.9 # secondlife.com
 45.141.118.210 # Lycos
+45.143.234.112 # Bitget
 45.144.234.170 # rfa.org
 45.145.4.81 # slate.com
 45.150.131.146 # TikTok
