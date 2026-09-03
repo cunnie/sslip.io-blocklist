@@ -791,6 +791,7 @@
 64.226.82.36 # liveayurprana.com
 64.227.132.89 # Banco Popular
 64.227.45.81 # thestar.com
+64.95.11.10 # TikTok
 65.0.177.47 # Binance
 65.108.247.57 # pcgamesn.com
 65.108.58.0 # arvehaldus.ee
