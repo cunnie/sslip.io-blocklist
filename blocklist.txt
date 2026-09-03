@@ -112,6 +112,7 @@
 129.80.218.5 # actionaid.org
 13.140.150.177 # Bank al Etihad
 13.159.98.193 # Amazon
+13.205.89.0 # React CVE-2025-55182
 13.209.188.54 # mediamba.ssu.ac.kr
 13.235.0.237 # eduloanzm.com
 13.36.237.118 # GitHub
@@ -197,6 +198,7 @@
 144.172.94.210 # Interac
 144.202.10.114 # deerhunterforum.com
 144.217.18.111 # wickr.com
+144.24.3.30 # React CVE-2025-55182
 144.24.57.205 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability"
 144.24.58.105 # SQL injection vulnerability in Ghost (CVE-2026-26980)
 144.31.14.212 # Slack
@@ -204,6 +206,7 @@
 144.31.247.106 # Slack
 144.31.79.72 # Microsoft
 145.239.54.184 # witness.org
+145.241.118.82 # React CVE-2025-55182
 146.103.121.162 # TikTok
 146.103.41.40 # amazon
 146.19.247.75 # slate.com
@@ -232,6 +235,7 @@
 151.245.163.92 # Fox News
 151.247.22.39 # Nordic Financial CERT
 151.80.106.167 # rg.ru
+152.42.129.213 # React CVE-2025-55182
 152.42.142.21 # tacticaltech.org
 152.42.188.133 # nu.or.id
 152.42.226.149 # witness.org
@@ -254,6 +258,7 @@
 158.247.223.122 # Some Japanese site
 158.69.116.36 # Yatırım Finansman
 159.195.17.180 # Orca
+159.195.69.114 # React CVE-2025-55182
 159.223.3.6 # oratie.com
 159.65.122.63 # upgrade.rs
 159.69.122.252 # junior-report.media
@@ -284,6 +289,7 @@
 165.227.145.52 # credibilitycoalition.org
 165.227.148.243 # foodizone.net
 165.227.225.17 # thestar.com
+165.245.153.53 # React CVE-2025-55182
 167.114.90.232 # okala.com
 167.172.150.42 # mercari (Japanese)
 167.172.212.184 # Coinbase
@@ -460,6 +466,7 @@
 194.62.251.128 # reliefweb.int
 194.62.55.122 # Foxnews
 194.99.79.28  # LinkedIn
+195.110.43.75 # React CVE-2025-55182
 195.123.233.55 # Microsoft
 195.16.74.5 # ebaumsworld.com
 195.20.227.112 # digg.com
@@ -491,6 +498,9 @@
 20.55.22.3 # Costco
 20.55.32.72 # hxxps://bofa-tablas-v2.20-55-32-72[.]sslip[.]io/#/user
 20.85.241.39 # Costco
+20.87.120.31 # React CVE-2025-55182
+20.87.120.31 # React CVE-2025-55182
+20.87.244.127 # React CVE-2025-55182
 20.97.5.57 # TikTok
 204.152.217.239 # getdial.ai
 205.172.56.59 # transformunow.org
@@ -635,6 +645,7 @@
 45.158.15.184 # ebaumsworld.com
 45.159.248.190 # sliding.toys
 45.159.249.169 # sheypoor.com
+45.189.109.197 # React CVE-2025-55182
 45.195.250.148 # cdnjs.com
 45.195.69.178 # sliding.toys
 45.252.183.181 # out.com
@@ -674,6 +685,7 @@
 46.17.102.186 # cadenza.ir
 46.183.27.211 # akharinnews.com
 46.202.130.214 # VermoegensZentrum
+46.224.119.161 # React CVE-2025-55182
 46.249.100.129 # theintercept.com
 46.249.98.17 # Apple Store
 46.250.237.97 # UNFPA
@@ -767,6 +779,7 @@
 57.180.206.7 # infini-cloud.net
 62.113.255.125 # pogo.com
 62.171.130.122 # https://pagos.acueducto.com.co/
+63.186.43.96 # React CVE-2025-55182
 64.120.94.224 # Deutsche Telekom
 64.176.189.63 # climaterealityproject.org
 64.176.22.9 # Costco
@@ -821,6 +834,7 @@
 72.61.203.163 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability..."
 72.61.214.93 # TikTok
 72.62.243.209 # Tokyo Metropolitan Police Department
+74.208.54.68 # React CVE-2025-55182
 77.105.147.35 # indiatimes.com
 77.221.136.77 # firstpost.com
 77.221.136.78 # worldhealth.net
@@ -965,6 +979,7 @@
 91.107.254.171 # ebaumsworld.com
 91.107.255.196 # mastodon.xyz
 91.108.241.48 # digg.com
+91.147.92.70 # React CVE-2025-55182
 91.192.81.2 # nypost.com
 91.202.233.230 # Interac
 91.207.183.233 # slate.com
