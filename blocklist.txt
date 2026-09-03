@@ -382,6 +382,7 @@
 18.218.70.131 # nuevoleon.travel
 18.219.211.22 # velhaestancia.com.br
 18.223.143.133 # Kraken
+180.184.49.234 # Alibaba
 181.214.208.102 # telegram
 184.174.96.189 # mozilla.org
 185.106.94.156 # indiatimes.com
