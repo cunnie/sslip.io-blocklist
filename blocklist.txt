@@ -581,6 +581,7 @@
 32.186.93.121 # Langley FCU Banking
 34.117.27.160 # TikTok
 34.125.139.171 # Linkedin
+34.128.147.132 # React CVE-2025-55182
 34.149.137.0 # Herdez
 34.204.76.216 # KeyBank
 34.80.136.10 # arabnews.com
@@ -729,6 +730,7 @@
 5.161.56.94 # nypost.com
 5.161.68.244 # Facebook
 5.180.30.211 # jadidonline.com
+5.181.50.243 # React CVE-2025-55182
 5.182.36.181 # Protonmail
 5.189.221.55 # amazon.com
 5.206.224.115 # ABNAMRO.nl
@@ -777,6 +779,7 @@
 54.234.5.223 # ticketmaster
 54.36.119.4 # nypost.com
 57.128.107.209 # wickr.com
+57.155.183.218 # React CVE-2025-55182
 57.180.206.7 # infini-cloud.net
 62.113.255.125 # pogo.com
 62.171.130.122 # https://pagos.acueducto.com.co/
