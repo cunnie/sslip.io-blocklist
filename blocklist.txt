@@ -247,6 +247,7 @@
 154.16.16.103 # doctorswithoutborders.org
 154.205.130.176 # climaterealityproject.org
 154.205.148.163 # UNFPA
+154.44.9.56 # Adobe
 154.64.251.131 # panties.com
 154.90.54.178 # khanacademy.org
 156.255.1.134 # download.cnet.com
