@@ -693,6 +693,7 @@
 46.183.27.211 # akharinnews.com
 46.202.130.214 # VermoegensZentrum
 46.224.119.161 # React CVE-2025-55182
+46.225.230.37 # Unauthenticated SQL Injection (CVE-2026-72898)
 46.249.100.129 # theintercept.com
 46.249.98.17 # Apple Store
 46.250.237.97 # UNFPA
