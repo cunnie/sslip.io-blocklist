@@ -903,6 +903,7 @@
 82.115.8.149 # hsbc uk
 82.25.34.83 # UNFPA
 82.25.39.168 # "redirects to a Russian App download site" "it does look phish-y"
+82.25.46.32 # Tasheel Finance
 83.217.9.85 # apt.ch
 84.200.24.243 # Microsoft
 84.32.100.30 # speakeasy / fusionconnect
