@@ -473,6 +473,7 @@
 194.99.79.28  # LinkedIn
 195.110.43.75 # React CVE-2025-55182
 195.123.233.55 # Microsoft
+195.133.2.12 # Kleinanzeigen
 195.16.74.5 # ebaumsworld.com
 195.20.227.112 # digg.com
 195.200.30.15 # Apple
