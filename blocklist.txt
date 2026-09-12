@@ -931,6 +931,7 @@
 86.106.104.30 # Microsoft Outlook
 86.106.104.8 # nominalia
 86.38.156.169 # sxyprn.com
+86.53.110.170 # Craigslist
 87.120.254.22 # Interac
 87.247.170.234 # shenoto.com
 88.198.203.52 # Kaufland
