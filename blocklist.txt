@@ -236,6 +236,7 @@
 151.245.163.92 # Fox News
 151.247.22.39 # Nordic Financial CERT
 151.80.106.167 # rg.ru
+152.228.134.77 # TradingView
 152.42.129.213 # React CVE-2025-55182
 152.42.142.21 # tacticaltech.org
 152.42.188.133 # nu.or.id
