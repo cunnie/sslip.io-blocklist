@@ -807,6 +807,7 @@
 64.227.45.81 # thestar.com
 64.95.11.10 # TikTok
 64.95.11.149 # Paperless Post
+64.95.12.182 # Paperless Post
 64.95.13.216 # Paperless Post
 65.0.177.47 # Binance
 65.108.247.57 # pcgamesn.com
