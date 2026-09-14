@@ -293,6 +293,7 @@
 165.227.145.52 # credibilitycoalition.org
 165.227.148.243 # foodizone.net
 165.227.225.17 # thestar.com
+165.232.110.168 # Bank al Etihad
 165.245.153.53 # React CVE-2025-55182
 167.114.90.232 # okala.com
 167.172.150.42 # mercari (Japanese)
