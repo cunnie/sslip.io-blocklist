@@ -276,6 +276,7 @@
 162.243.216.143 # TikTok
 162.33.177.74 # Paperless Post
 162.55.21.181 # khamenei.ir
+164.132.76.71 # Crédit Agricole
 164.90.187.137 # ekoyapidergisi.org
 164.90.211.63 # drudgereport.com
 164.90.223.13 # gadgetsnow.com
