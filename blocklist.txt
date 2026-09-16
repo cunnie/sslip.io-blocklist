@@ -718,6 +718,7 @@
 47.245.106.224 # uzum market
 47.245.54.43 # TD Ameritrade WebBroker Login
 47.251.27.123 # getdial.ai
+47.84.49.45 # uzum market
 48.216.217.16 # coinbase
 49.12.0.222 # catholicsforchoice.org
 49.12.103.72 # reliefweb.int
@@ -898,6 +899,7 @@
 79.137.202.34 # "The Global Fund"
 79.137.202.87 # circumcision.org
 8.209.115.155 # TikTok
+8.222.135.173 # uzum market
 80.225.199.157 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability"
 80.240.21.194 # bigdev.ir
 80.242.56.112 # dailywire.com
