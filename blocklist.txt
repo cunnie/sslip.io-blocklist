@@ -500,6 +500,7 @@
 199.247.14.108 # brothersroad.org
 199.250.203.93 # Xfinity
 2.24.124.66 # Mercado Livre (Brazil)
+2.25.209.181 # BONDDESK
 20.119.100.146 # Costco
 20.119.57.19 # Costco
 20.124.191.59 # Costco
