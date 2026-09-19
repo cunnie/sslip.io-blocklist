@@ -1065,6 +1065,7 @@
 95.216.109.218 # beintheknow.org
 95.216.147.91 # roozno.com
 95.216.186.128 # artforum.com
+95.216.23.154 # phantom.app
 95.217.232.185 # mama.tv
 95.217.99.94 # gamespot.com
 96.9.125.197 # web shell
