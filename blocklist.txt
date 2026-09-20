@@ -868,6 +868,7 @@
 72.61.214.93 # TikTok
 72.62.243.209 # Tokyo Metropolitan Police Department
 72.62.71.182 # WhatsApp / Mikha Internal Comms
+74.0.48.198 # coinbase
 74.208.54.68 # React CVE-2025-55182
 77.105.147.35 # indiatimes.com
 77.221.136.77 # firstpost.com
