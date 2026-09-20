@@ -594,6 +594,7 @@
 3.67.106.44 # nabaliaenergia.com
 3.8.119.3 # optical.toys
 31.129.106.225 # 1800respect.org.au
+31.14.139.105 # cursor.com
 31.214.157.178 # freeimages
 31.56.113.98 # Slack
 32.186.93.121 # Langley FCU Banking
