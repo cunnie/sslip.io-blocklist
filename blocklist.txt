@@ -599,6 +599,7 @@
 31.14.139.105 # cursor.com
 31.214.157.178 # freeimages
 31.56.113.98 # Slack
+31.59.209.5 # AutoTrader (Cox Auto)
 32.186.93.121 # Langley FCU Banking
 34.117.27.160 # TikTok
 34.125.139.171 # Linkedin
