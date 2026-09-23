@@ -817,6 +817,7 @@
 64.120.94.224 # Deutsche Telekom
 64.176.189.63 # climaterealityproject.org
 64.176.22.9 # Costco
+64.176.5.116 # Ramp Chile
 64.188.74.204 # Apple / iCloud
 64.226.82.36 # liveayurprana.com
 64.227.132.89 # Banco Popular
@@ -965,6 +966,7 @@
 88.99.21.170 # csmonitor.com
 89.107.62.251 # limetorrents.lol
 89.110.65.182 # apple.com
+89.167.102.27 # some weird trading platform
 89.167.63.119 # revolut.com
 89.168.58.113 # n8n
 89.185.85.193 # tomato.gg
