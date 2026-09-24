@@ -931,6 +931,7 @@
 82.115.18.250 # citizensclimatelobby.org
 82.115.5.6 # norml.org
 82.115.8.149 # hsbc uk
+82.165.105.40 # illegal drugs
 82.25.34.83 # UNFPA
 82.25.39.168 # "redirects to a Russian App download site" "it does look phish-y"
 82.25.46.32 # Tasheel Finance
