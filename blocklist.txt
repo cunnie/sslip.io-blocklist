@@ -477,6 +477,7 @@
 194.163.175.75 # Claude
 194.26.232.15 # slate.com
 194.28.225.187 # ymca.int
+194.35.226.168 # ФССП (FSSP)
 194.36.170.226 # sputnikglobe.com
 194.58.111.143 # prodoctorov.ru
 194.61.120.156 # hellopoetry.com
