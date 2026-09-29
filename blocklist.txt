@@ -911,6 +911,7 @@
 78.141.193.47 # Lycos
 78.141.246.36 # wccftech.com
 78.153.139.39 # easycomposites.co.uk
+78.17.70.177 # numerous
 78.47.196.26 # dailywire.com
 78.47.48.110 # freeconvert.com
 79.132.135.157 # concern.net
