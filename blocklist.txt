@@ -735,6 +735,7 @@
 46.37.123.109 # Instagram
 46.4.148.166 # unfpa.org
 46.4.162.14 # foreignpolicy.com
+46.62.216.152 # Universal Navigation Inc. (DBA “Uniswap Labs”)
 46.8.236.174 # fardanews.com
 47.236.160.90 # uzum market
 47.245.106.224 # uzum market
