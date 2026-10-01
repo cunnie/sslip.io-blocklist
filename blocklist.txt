@@ -112,6 +112,7 @@
 129.121.113.18 # Costco
 129.121.114.197 # Costco
 129.151.147.169 # terredeshommes.org
+129.225.88.25 # Universal Navigation Inc. (DBA “Uniswap Labs”)
 129.80.218.5 # actionaid.org
 13.140.150.177 # Bank al Etihad
 13.159.98.193 # Amazon
