@@ -717,6 +717,7 @@
 45.88.186.173 # Scotiabank
 45.9.250.228 # arabnews.com
 45.90.237.175 # Spotify
+45.91.138.110 # BMO Financial Group
 45.92.111.164 # holakoueearchive.co
 45.95.174.89 # sfr.fr
 45.95.233.96 # proton.me
