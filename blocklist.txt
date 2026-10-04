@@ -531,6 +531,7 @@
 20.87.244.127 # React CVE-2025-55182
 20.97.5.57 # TikTok
 204.152.217.239 # getdial.ai
+204.168.175.48 # Revolut
 205.172.56.59 # transformunow.org
 206.189.140.121 # gadgetsnow.com
 206.189.21.72 # polymarket.com
