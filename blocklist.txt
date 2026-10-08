@@ -948,6 +948,7 @@
 80.253.254.10 # ebaumsworld.com
 80.253.255.2 # ebaumsworld.com
 80.66.87.109 # NBC news
+80.71.144.178 # chemdryloscabos.com
 80.71.224.105 # Spotify
 80.78.30.192 # Banco Galicia
 80.87.206.55 # dalfak.com
