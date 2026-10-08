@@ -591,6 +591,7 @@
 216.9.227.101 # saatkac.info.tr
 216.9.227.8 # frontlineaids.org
 217.144.188.8 # sputnikglobe.com
+217.60.195.75 # Mayor of Greater Sudbury
 217.69.13.138 # download.cnet.com
 222.92.156.238 # retired HDNY test endpoint
 23.162.152.72 # fruitcraft.co
