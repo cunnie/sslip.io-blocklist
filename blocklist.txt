@@ -539,6 +539,7 @@
 206.189.243.3 # gameignition.io
 206.189.51.165 # obsproject.com
 206.206.104.221 # doctorswithoutborders.org
+206.206.76.66 # American Express
 207.148.116.21 # Apple Store
 207.154.216.14 # unfpa.org
 207.154.229.160 # haqi.org
