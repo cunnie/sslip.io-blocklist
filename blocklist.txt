@@ -85,6 +85,7 @@
 109.205.181.138 # Bancolombia
 109.61.95.86 # wickr.com
 111.68.15.82 # Cloudflare
+113.105.100.25 # China Telecom, has told us that public DNS queries...
 113.30.191.120 # arxiv.org
 116.202.111.124 # mega.io
 116.202.15.101 # nextpit.com
