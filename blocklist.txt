@@ -214,6 +214,7 @@
 144.31.79.72 # Microsoft
 145.239.54.184 # witness.org
 145.241.118.82 # React CVE-2025-55182
+145.79.12.16 # Jennison Associates LLC amg.com
 146.103.121.162 # TikTok
 146.103.41.40 # amazon
 146.19.247.75 # slate.com
