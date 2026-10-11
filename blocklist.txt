@@ -154,6 +154,7 @@
 137.184.226.70 # blogease.co
 137.220.157.25 # TikTok
 138.124.103.200 # Apple
+138.124.54.253 # Fragment (Telegram Messenger)
 138.197.128.25 # phoenixagritech.com
 138.197.183.135 # actionaid.org
 138.68.138.112 # thestar.com
