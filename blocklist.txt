@@ -339,6 +339,7 @@
 169.58.206.212 # Bancolombia
 169.58.217.109 # Bancolombia
 169.58.232.34 # Bancolombia
+169.58.236.15 # "collecting personal and sensitive information about children and vulnerable families in the Gaza Strip"
 169.58.249.21 # TikTok
 170.64.134.93 # clarenicholson.com
 170.64.140.55 # waihekecarrental.co.nz
