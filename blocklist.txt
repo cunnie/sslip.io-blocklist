@@ -271,6 +271,7 @@
 158.69.116.36 # Yatırım Finansman
 159.195.17.180 # Orca
 159.195.69.114 # React CVE-2025-55182
+159.198.47.54 # TikTok
 159.223.3.6 # oratie.com
 159.65.122.63 # upgrade.rs
 159.69.122.252 # junior-report.media
