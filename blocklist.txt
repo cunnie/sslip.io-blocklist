@@ -261,6 +261,7 @@
 154.64.251.131 # panties.com
 154.90.54.178 # khanacademy.org
 156.255.1.134 # download.cnet.com
+157.173.125.142 # Apple
 157.245.96.129 # atomapi.in
 157.90.149.110 # beyondexgay.com
 157.90.245.228 # sputnikglobe.com
