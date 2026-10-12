@@ -980,6 +980,7 @@
 82.202.156.103 # Notion Labs, Inc.
 82.25.34.83 # UNFPA
 82.25.39.168 # "redirects to a Russian App download site" "it does look phish-y"
+82.25.46.126 # United Company for Financial Services
 82.25.46.131 # United Company for Financial Services
 82.25.46.32 # Tasheel Finance
 82.25.46.61 # Tasheel Finance
