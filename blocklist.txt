@@ -441,6 +441,7 @@
 187.124.246.235 # Apple
 187.124.99.59 # Kotak Life Insurance
 187.77.204.153 # TD Bank
+187.77.55.29 # Robinhood Markets, Inc.
 188.116.25.165 # atlasofsurveillance.org
 188.132.188.114 # ebaumsworld.com
 188.132.188.25 # saatkac.info.tr
