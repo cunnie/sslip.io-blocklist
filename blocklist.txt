@@ -985,14 +985,7 @@
 82.202.156.103 # Notion Labs, Inc.
 82.25.34.83 # UNFPA
 82.25.39.168 # "redirects to a Russian App download site" "it does look phish-y"
-82.25.46.126 # United Company for Financial Services
-82.25.46.131 # United Company for Financial Services
-82.25.46.140 # Tasheel Finance
-82.25.46.20 # Tasheel
-82.25.46.32 # Tasheel Finance
-82.25.46.61 # Tasheel Finance
-82.25.46.63 # Tasheel Finance
-82.25.46.81 # United Company for Financial Services https://www.tasheelfinance.com/
+82.25.46.0/24 # United Company for Financial Services https://www.tasheelfinance.com/
 83.217.9.85 # apt.ch
 84.200.24.243 # Microsoft
 84.32.100.30 # speakeasy / fusionconnect
