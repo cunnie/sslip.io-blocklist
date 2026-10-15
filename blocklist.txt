@@ -988,6 +988,7 @@
 82.25.46.126 # United Company for Financial Services
 82.25.46.131 # United Company for Financial Services
 82.25.46.140 # Tasheel Finance
+82.25.46.20 # Tasheel
 82.25.46.32 # Tasheel Finance
 82.25.46.61 # Tasheel Finance
 82.25.46.63 # Tasheel Finance
