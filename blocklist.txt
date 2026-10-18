@@ -872,6 +872,7 @@
 64.226.82.36 # liveayurprana.com
 64.227.132.89 # Banco Popular
 64.227.45.81 # thestar.com
+64.94.84.123 # Paperless Post
 64.95.11.10 # TikTok
 64.95.11.149 # Paperless Post
 64.95.12.182 # Paperless Post
