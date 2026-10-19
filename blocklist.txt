@@ -637,6 +637,7 @@
 31.14.139.105 # cursor.com
 31.214.157.178 # freeimages
 31.56.113.98 # Slack
+31.57.201.80 # Tasheel
 31.59.175.51 # Alchemy Insights, Inc. alchemy.com
 31.59.209.5 # AutoTrader (Cox Auto)
 31.70.153.49 # State Street / Charles River Development
