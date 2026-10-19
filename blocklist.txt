@@ -1004,6 +1004,7 @@
 85.159.229.32 # pikabu.ru
 85.159.230.171 # actionaid.org
 85.192.56.134 # kennedy-center.org
+85.234.106.111 # CloudCLI
 85.239.52.124 # sayt.ws
 85.239.63.67 # tumblr.com
 86.106.104.0/24 # ValkyrieHosting (Romania)?
