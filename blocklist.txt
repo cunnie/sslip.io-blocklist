@@ -563,6 +563,7 @@
 206.206.104.221 # doctorswithoutborders.org
 206.206.76.66 # American Express
 207.148.116.21 # Apple Store
+207.148.98.212 # Babylon Labs Ltd babylonlabs.io
 207.154.216.14 # unfpa.org
 207.154.229.160 # haqi.org
 207.174.31.80 # Amazon
