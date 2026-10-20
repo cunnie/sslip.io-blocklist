@@ -122,6 +122,7 @@
 13.159.98.193 # Amazon
 13.205.89.0 # React CVE-2025-55182
 13.209.188.54 # mediamba.ssu.ac.kr
+13.233.15.116 # malicious Android
 13.235.0.237 # eduloanzm.com
 13.36.237.118 # GitHub
 13.49.239.35 # citylife.az
