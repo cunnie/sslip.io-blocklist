@@ -500,6 +500,7 @@
 194.116.214.238 # videolan.org
 194.120.24.173 # my.webramz.com
 194.124.43.116 # arabnews.com
+194.127.178.244 # Apple
 194.146.123.175 # kickasstorrents.to
 194.15.152.82 # csmonitor.com
 194.163.175.75 # Claude
