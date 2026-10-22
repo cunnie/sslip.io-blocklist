@@ -307,6 +307,7 @@
 164.92.225.172 # mp4moviez.legal
 165.22.1.235 # Microsoft
 165.22.18.3 # musicema.com
+165.22.206.116 # Endesa, Enel S.p.A., Enel Group
 165.22.26.12 # ilo.org
 165.227.133.84 # king.com
 165.227.145.52 # credibilitycoalition.org
