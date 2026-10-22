@@ -865,6 +865,7 @@
 51.89.204.166 # Google
 51.91.52.71 # TikTok
 52.220.134.5 # arabnews.com
+54.147.2.250 # TradingView Inc. tradingview.com
 54.152.242.38 # usatoday.com
 54.187.9.45 # Amazon
 54.204.89.15 # Bank of Philippine Islands (BPI) (https://www.bpi.com.ph)
