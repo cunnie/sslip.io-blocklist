@@ -119,6 +119,7 @@
 129.225.88.25 # Universal Navigation Inc. (DBA “Uniswap Labs”)
 129.80.218.5 # actionaid.org
 13.140.150.177 # Bank al Etihad
+13.140.225.108 # IAC Inc health.com
 13.159.98.193 # Amazon
 13.205.89.0 # React CVE-2025-55182
 13.209.188.54 # mediamba.ssu.ac.kr
