@@ -1044,6 +1044,7 @@
 87.120.254.22 # Interac
 87.247.170.234 # shenoto.com
 87.58.152.45 # HDFC Bank
+87.58.197.171 # Общество с ограниченной ответственностью "ВК"
 88.198.203.52 # Kaufland
 88.218.17.193 # architectureau.com
 88.218.79.18 # Apple / Apple Online Store
