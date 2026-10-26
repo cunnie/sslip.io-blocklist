@@ -552,6 +552,7 @@
 20.119.57.19 # Costco
 20.124.191.59 # Costco
 20.124.199.183 # Costco
+20.153.153.28 # Momentum Group
 20.169.219.52 # Costco
 20.201.66.162 # Comprovação BNDES
 20.55.22.3 # Costco
