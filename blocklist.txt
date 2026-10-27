@@ -1170,3 +1170,4 @@
 96.9.125.197 # web shell
 98.158.28.139 # TikTok
 98.158.28.140 # TikTok
+98.83.81.123 # TradingView Inc. tradingview.com
