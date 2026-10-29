@@ -89,6 +89,7 @@
 111.68.15.82 # Cloudflare
 113.105.100.25 # China Telecom, has told us that public DNS queries...
 113.30.191.120 # arxiv.org
+115.147.162.18 # Shopee
 115.190.235.48 # China domain compliance
 116.202.111.124 # mega.io
 116.202.15.101 # nextpit.com
