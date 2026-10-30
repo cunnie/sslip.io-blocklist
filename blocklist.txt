@@ -138,6 +138,7 @@
 133.242.233.224 # Aeon Card
 134.122.66.162 # flymizar.com
 134.122.75.15 # bathelalnada.com
+134.209.119.78 # Life360, Inc. nativo.com
 134.209.181.141 # bluehedgerelocators.com
 134.209.185.94 # thestar.com
 134.209.190.61 # thestar.com
