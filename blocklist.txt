@@ -705,6 +705,7 @@
 38.54.8.58 # jami.net
 38.54.84.228 # climaterealityproject.org
 38.54.85.248 # TikTok
+38.55.215.18 # Circle Internet Financial, Inc. arcnetwork.xyz
 38.60.196.184 # celebon.ir
 38.60.208.121 # arabnews.com
 38.60.255.239 # actionaid.org
