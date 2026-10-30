@@ -881,6 +881,7 @@
 51.195.150.117 # gov.uh
 51.222.206.184 # Anthropic
 51.79.38.120 # INFO-YATIRIM infoyatirimfx.com
+51.79.38.248 # INFO-YATIRIM infoyatirimfx.com
 51.89.156.250 # fosfeminista.org
 51.89.164.107 # TikTok
 51.89.204.166 # Google
