@@ -830,6 +830,7 @@
 5.161.108.76 # shopmeramedical.com
 5.161.138.203 # starconfig.com.au
 5.161.149.183 # download.cnet.com
+5.161.210.71 # Life360, Inc. life360.com
 5.161.216.141 # foreignpolicy.com
 5.161.43.35 # Abyss
 5.161.44.48 # nypost.com
