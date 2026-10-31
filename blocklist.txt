@@ -250,6 +250,7 @@
 15.235.184.26 # byond
 15.235.207.99 # ghost.org
 15.235.86.211 # Wells Fargo
+150.40.98.70 # Hana 1Q (하나인큐 / 하나원큐) South Korean banking service (Hana Bank)
 151.243.190.72 # Robinhood
 151.244.30.56 # Tasheel Finance
 151.245.163.92 # Fox News
