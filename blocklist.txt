@@ -672,6 +672,7 @@
 34.125.139.171 # Linkedin
 34.128.147.132 # React CVE-2025-55182
 34.133.249.193 # Workday Inc. sanalabs.com
+34.136.136.50 # Revolut revolut.com
 34.149.137.0 # Herdez
 34.204.76.216 # KeyBank
 34.41.213.207 # Navy Federal Credit Union navyfederal.org
