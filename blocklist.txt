@@ -223,6 +223,7 @@
 144.31.234.53 # Fox News
 144.31.247.106 # Slack
 144.31.79.72 # Microsoft
+144.91.124.166 # denial-of-service sentry.io
 145.239.54.184 # witness.org
 145.241.118.82 # React CVE-2025-55182
 145.79.12.16 # Jennison Associates LLC amg.com
