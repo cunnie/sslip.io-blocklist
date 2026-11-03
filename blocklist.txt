@@ -266,6 +266,7 @@
 152.42.226.149 # witness.org
 152.53.47.35 # theintercept.com
 152.70.94.211 # muckrock.com
+153.76.167.42 # Abu Dhabi National Oil Company
 154.12.61.243 # tvb.com
 154.13.7.222 # TikTok shop
 154.16.16.103 # doctorswithoutborders.org
