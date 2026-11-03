@@ -169,6 +169,7 @@
 138.68.138.112 # thestar.com
 138.68.180.24 # thestar.com
 138.68.77.97 # laborrights.org
+138.68.85.140 # Citadel LLC citadel.com
 139.144.97.232 # dtdcaustralia.com.au
 139.180.132.86 # Apple
 139.180.155.59 # various Japanese banks
