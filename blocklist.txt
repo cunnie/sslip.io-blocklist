@@ -769,6 +769,7 @@
 45.61.136.57 # Microsoft
 45.61.154.115 # foreignpolicy.com
 45.61.161.168 # Apple (Korean? Japanese?)
+45.61.177.243 # "suspicious text message from a crypto platform called ShakePay"
 45.63.117.88 # u4.no
 45.66.228.248 # Binance
 45.67.86.25 # stonewall.org.uk
