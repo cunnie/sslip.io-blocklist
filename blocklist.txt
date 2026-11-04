@@ -1077,6 +1077,7 @@
 88.99.21.170 # csmonitor.com
 89.107.62.251 # limetorrents.lol
 89.110.65.182 # apple.com
+89.125.209.243 # Citadel LLC citadel.com
 89.167.102.27 # some weird trading platform
 89.167.63.119 # revolut.com
 89.168.58.113 # n8n
