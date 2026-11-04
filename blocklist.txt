@@ -1147,6 +1147,7 @@
 91.225.217.17 # weather.com
 91.241.49.48 # wordreference.com
 91.98.134.136 # TikTok
+91.98.239.48 # Orca Management Company orca.so
 91.98.86.167 # Microsoft
 91.99.154.136 # Workday Inc
 92.118.114.109 # slate.com
