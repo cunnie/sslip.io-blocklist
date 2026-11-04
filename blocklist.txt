@@ -208,6 +208,7 @@
 142.93.207.151 # Microsoft
 142.93.238.38 # almanar.com.lb
 142.93.46.4 # thestar.com
+143.246.222.121 # Kraken kraken.com
 143.42.19.49 # gutschein724.de
 144.126.145.43 # parsine.com
 144.172.101.220 # Interac
