@@ -1156,6 +1156,7 @@
 92.205.111.135 # Banque Misr (بنك مصر)
 92.246.136.54 # slate.com
 92.246.137.149 # foreignpolicy.com
+92.5.14.36 # Remote Code Execution in PHP (CVE-2026-109619)
 92.50.249.198 # mechel.ru
 92.51.45.76 # rescue.org
 93.113.25.186 # phishing command & control panel
