@@ -920,6 +920,7 @@
 64.176.22.9 # JPMorgan Chase / Chase.com
 64.176.5.116 # Ramp Chile
 64.188.74.204 # Apple / iCloud
+64.205.112.59 # DHL International GmbH dhl.com
 64.226.82.36 # liveayurprana.com
 64.227.132.89 # Banco Popular
 64.227.45.81 # thestar.com
