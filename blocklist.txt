@@ -527,6 +527,7 @@
 194.33.61.115 # Facebook
 194.35.226.168 # ФССП (FSSP)
 194.36.170.226 # sputnikglobe.com
+194.56.226.106 # Dutch HTTP vulnerability
 194.58.111.143 # prodoctorov.ru
 194.61.120.156 # hellopoetry.com
 194.62.251.127 # goodreads.com
@@ -1031,6 +1032,7 @@
 80.71.224.105 # Spotify
 80.78.30.192 # Banco Galicia
 80.87.206.55 # dalfak.com
+80.90.179.93 # Dutch HTTP vulnerability
 81.161.238.97 # arriyadiyah.com
 81.19.137.126 # rcsb.org
 81.19.137.196 # trezor
@@ -1169,6 +1171,7 @@
 93.127.160.4 # apple.com
 93.127.223.129 # reliefweb.int
 93.188.161.162 # nypost.com
+93.88.74.138 # Dutch HTTP vulnerability
 94.103.92.125 # arriyadiyah.com
 94.130.76.212 # pcgamesn.com
 94.130.78.56 # arabic.rt.com
