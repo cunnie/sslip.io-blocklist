@@ -735,6 +735,7 @@
 45.11.182.161 # thestar.com
 45.116.14.101 # usatoday.com
 45.12.108.203 # standardnotes.com
+45.126.126.187 # Binance binance.com
 45.128.205.186 # TikTok
 45.128.234.201 # malware Command & Control
 45.13.186.74 # robinhood.com
