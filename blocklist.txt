@@ -17,6 +17,7 @@
 
 101.32.189.230 # TikTok
 101.99.90.126 # Amazon
+103.137.249.70 # Dutch HTTP vulnerability
 103.161.184.149 # UNFPA
 103.212.136.235 # WhatsApp
 103.231.75.79 # pcgamesn.com
@@ -520,8 +521,10 @@
 194.124.43.116 # arabnews.com
 194.127.178.244 # Apple
 194.146.123.175 # kickasstorrents.to
+194.147.115.204 # Dutch HTTP vulnerability
 194.15.152.82 # csmonitor.com
 194.163.175.75 # Claude
+194.164.33.40 # Dutch HTTP vulnerability
 194.26.232.15 # slate.com
 194.28.225.187 # ymca.int
 194.33.61.115 # Facebook
