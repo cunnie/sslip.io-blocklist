@@ -597,6 +597,7 @@
 207.154.216.14 # unfpa.org
 207.154.229.160 # haqi.org
 207.174.31.80 # Amazon
+207.244.230.238 # State Street
 207.246.83.11 # foreignpolicy.com
 207.57.133.227 # Apple / iCloud
 209.141.40.61 # pytorch.org
