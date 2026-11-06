@@ -735,6 +735,7 @@
 43.225.108.140 # aimer-web.jp
 43.229.150.11 # bicommunitynews.co.uk
 44.192.53.252 # imagene-ai.com
+45.10.24.125 # Grammarly Inc. fathom.ai
 45.11.182.161 # thestar.com
 45.116.14.101 # usatoday.com
 45.12.108.203 # standardnotes.com
