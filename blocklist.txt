@@ -957,6 +957,7 @@
 65.109.221.11 # defcad.com
 65.109.221.214 # gamespot.com
 65.109.232.185 # sierraclub.org
+65.109.236.128 # Coinbase Inc. deribit.com
 65.109.236.170 # pcgamesn.com
 65.109.238.97 # heyatonline.ir
 65.20.103.236 # aljazeera.net
