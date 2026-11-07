@@ -469,6 +469,7 @@
 187.124.246.235 # Apple
 187.124.99.59 # Kotak Life Insurance
 187.127.189.74 # ITC Hotels Limited brand
+187.41.111.49 # TikTok
 187.77.204.153 # TD Bank
 187.77.55.29 # Robinhood Markets, Inc.
 187.77.85.185 # Acorns
