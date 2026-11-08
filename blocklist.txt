@@ -15,6 +15,7 @@
 # File format: blank lines are ignored, "#" are comments and are ignored. One IP
 # address or CIDR per line.
 
+45.178.182.57 # Brazilian brand (Track&Field)
 101.32.189.230 # TikTok
 101.99.90.126 # Amazon
 103.137.249.70 # Dutch HTTP vulnerability
