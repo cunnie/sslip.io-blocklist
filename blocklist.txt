@@ -211,6 +211,7 @@
 142.93.46.4 # thestar.com
 143.246.222.121 # Kraken kraken.com
 143.42.19.49 # gutschein724.de
+143.47.243.20 # Revolut revolut.com
 144.126.145.43 # parsine.com
 144.172.101.220 # Interac
 144.172.115.128 # Interac
