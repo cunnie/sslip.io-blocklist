@@ -211,6 +211,7 @@
 142.93.207.151 # Microsoft
 142.93.238.38 # almanar.com.lb
 142.93.46.4 # thestar.com
+143.20.50.172 # Apple / iCloud
 143.246.222.121 # Kraken kraken.com
 143.42.19.49 # gutschein724.de
 143.47.243.20 # Revolut revolut.com
