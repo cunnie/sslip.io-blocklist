@@ -15,7 +15,6 @@
 # File format: blank lines are ignored, "#" are comments and are ignored. One IP
 # address or CIDR per line.
 
-45.178.182.57 # Brazilian brand (Track&Field)
 101.32.189.230 # TikTok
 101.99.90.126 # Amazon
 103.137.249.70 # Dutch HTTP vulnerability
@@ -768,6 +767,7 @@
 45.158.15.184 # ebaumsworld.com
 45.159.248.190 # sliding.toys
 45.159.249.169 # sheypoor.com
+45.178.182.57 # Brazilian brand (Track&Field)
 45.189.109.197 # React CVE-2025-55182
 45.195.250.148 # cdnjs.com
 45.195.69.178 # sliding.toys
@@ -811,6 +811,7 @@
 45.95.99.119 # ФССП fssp.gov.ru
 46.101.131.66 # gadgetsnow.com
 46.101.72.21 # coolmathgames.com
+46.105.118.14 # Robinhood Markets, Inc.
 46.17.101.214 # nytimes.com
 46.17.102.186 # cadenza.ir
 46.183.27.211 # akharinnews.com
