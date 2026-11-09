@@ -18,6 +18,7 @@
 101.32.189.230 # TikTok
 101.99.90.126 # Amazon
 103.137.249.70 # Dutch HTTP vulnerability
+103.137.249.70 # Dutch HTTP vulnerability
 103.161.184.149 # UNFPA
 103.212.136.235 # WhatsApp
 103.231.75.79 # pcgamesn.com
@@ -249,6 +250,7 @@
 148.113.223.167 # LinkedIn
 148.113.242.140 # Care Above All Else
 148.113.3.154 # tacticaltech.org
+148.227.170.10 # Dutch HTTP vulnerability
 148.253.215.107 # Slack
 149.104.107.155 # EBSA (?)
 149.104.107.220 # EBSA (?)
@@ -447,6 +449,7 @@
 185.140.12.132 # telegram
 185.146.234.250 # Robinhood Markets, Inc.
 185.158.251.213 # A Phishing Command & Control Panel is an online interface used to set up, distribute, and receive stolen information from phishing campaigns.
+185.162.11.87 # Dutch HTTP vulnerability
 185.17.136.135 # ebaumsworld.com
 185.17.136.39 # ebaumsworld.com
 185.171.26.40 # jojobet.com
@@ -526,6 +529,7 @@
 194.127.178.244 # Apple
 194.146.123.175 # kickasstorrents.to
 194.147.115.204 # Dutch HTTP vulnerability
+194.147.115.204.sslip.io # Dutch HTTP vulnerability
 194.15.152.82 # csmonitor.com
 194.163.175.75 # Claude
 194.164.33.40 # Dutch HTTP vulnerability
@@ -857,6 +861,7 @@
 49.13.84.255 # linguee.de
 5.104.72.41 # Federal Bailiff Service of Russia (ФССП — Федеральная служба судебных приставов / Federal'naya Sluzhba Sudebnykh Pristavov)
 5.129.208.141 # asana.com
+5.129.216.232.sslip.io # Dutch HTTP vulnerability
 5.129.228.180 # Amazon
 5.161.108.76 # shopmeramedical.com
 5.161.138.203 # starconfig.com.au
@@ -1048,9 +1053,11 @@
 80.66.87.109 # NBC news
 80.71.144.178 # chemdryloscabos.com
 80.71.224.105 # Spotify
+80.74.27.49 # Dutch HTTP vulnerability
 80.78.30.192 # Banco Galicia
 80.87.206.55 # dalfak.com
 80.90.179.93 # Dutch HTTP vulnerability
+80.90.179.93.sslip.io # Dutch HTTP vulnerability
 81.161.238.97 # arriyadiyah.com
 81.19.137.126 # rcsb.org
 81.19.137.196 # trezor
@@ -1162,6 +1169,7 @@
 91.107.254.171 # ebaumsworld.com
 91.107.255.196 # mastodon.xyz
 91.108.241.48 # digg.com
+91.132.59.217 # Dutch HTTP vulnerability
 91.147.92.70 # React CVE-2025-55182
 91.192.81.2 # nypost.com
 91.202.233.230 # Interac
