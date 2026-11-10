@@ -588,6 +588,7 @@
 20.201.66.162 # Comprovação BNDES
 20.55.22.3 # Costco
 20.55.32.72 # hxxps://bofa-tablas-v2.20-55-32-72[.]sslip[.]io/#/user
+20.83.191.59 # Amazon.com, Inc
 20.85.241.39 # Costco
 20.87.120.31 # React CVE-2025-55182
 20.87.120.31 # React CVE-2025-55182
