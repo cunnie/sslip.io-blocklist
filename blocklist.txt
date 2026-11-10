@@ -683,6 +683,7 @@
 31.14.139.105 # cursor.com
 31.171.131.116 # Marsupilami / Pathé
 31.214.157.178 # freeimages
+31.220.87.136 # Indusind Bank
 31.56.113.98 # Slack
 31.57.201.80 # Tasheel
 31.59.175.51 # Alchemy Insights, Inc. alchemy.com
