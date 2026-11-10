@@ -18,7 +18,6 @@
 101.32.189.230 # TikTok
 101.99.90.126 # Amazon
 103.137.249.70 # Dutch HTTP vulnerability
-103.137.249.70 # Dutch HTTP vulnerability
 103.161.184.149 # UNFPA
 103.212.136.235 # WhatsApp
 103.231.75.79 # pcgamesn.com
@@ -31,6 +30,7 @@
 103.75.199.39 # lbry.org
 103.75.199.87 # arachemishop.com
 103.82.195.192 # TikTok
+103.90.75.38 # Dutch HTTP vulnerability
 104.156.225.37 # forums.prsguitars.com
 104.167.215.178 # now.gg
 104.168.101.22 # Wells Fargo
@@ -458,6 +458,7 @@
 185.186.78.97 # slack.com
 185.198.234.74 # u4.no
 185.198.57.133 # pogo.com
+185.200.178.167 # Dutch HTTP vulnerability
 185.214.108.239 # Apple
 185.216.87.32 # Apple ID
 185.219.84.223 # cpimlm.org
@@ -543,6 +544,7 @@
 194.36.170.226 # sputnikglobe.com
 194.56.226.106 # Dutch HTTP vulnerability
 194.58.111.143 # prodoctorov.ru
+194.58.47.246 # Dutch HTTP vulnerability
 194.61.120.156 # hellopoetry.com
 194.62.251.127 # goodreads.com
 194.62.251.128 # reliefweb.int
@@ -590,7 +592,6 @@
 20.55.32.72 # hxxps://bofa-tablas-v2.20-55-32-72[.]sslip[.]io/#/user
 20.83.191.59 # Amazon.com, Inc
 20.85.241.39 # Costco
-20.87.120.31 # React CVE-2025-55182
 20.87.120.31 # React CVE-2025-55182
 20.87.244.127 # React CVE-2025-55182
 20.97.5.57 # TikTok
@@ -1124,7 +1125,6 @@
 89.23.107.250 # Westpac Bank Australia
 89.251.22.110 # Mercantil Servicios Financieros
 89.251.9.57 # projectveritas.com
-89.38.129.99 # UNFPA
 89.38.129.99 # UNFPA
 91.107.128.116 # ilo.org
 91.107.129.135 # onlinesim.io
