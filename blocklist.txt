@@ -455,6 +455,7 @@
 185.17.136.135 # ebaumsworld.com
 185.17.136.39 # ebaumsworld.com
 185.171.26.40 # jojobet.com
+185.176.253.191 # Circle Internet Financial, Inc. usdc.com
 185.186.78.97 # slack.com
 185.198.234.74 # u4.no
 185.198.57.133 # pogo.com
