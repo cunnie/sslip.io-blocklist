@@ -466,6 +466,7 @@
 185.226.92.129 # metmuseum.org
 185.229.65.160 # ¿"benarponpombahk"?
 185.230.143.180 # jhu.edu
+185.242.245.98 # Desjardins
 185.244.218.204 # csmonitor.com
 185.248.144.24 # CommBank
 185.31.200.36 # worldwildlife.org
