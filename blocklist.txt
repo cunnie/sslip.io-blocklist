@@ -459,6 +459,7 @@
 185.186.78.97 # slack.com
 185.198.234.74 # u4.no
 185.198.57.133 # pogo.com
+185.200.177.152 # Dutch HTTP vulnerability
 185.200.178.167 # Dutch HTTP vulnerability
 185.214.108.239 # Apple
 185.216.87.32 # Apple ID
@@ -598,6 +599,7 @@
 20.87.244.127 # React CVE-2025-55182
 20.97.5.57 # TikTok
 200.72.0.210 # Vertiv
+201.34.147.209 # Dutch HTTP vulnerability
 202.79.166.195 # Twilio
 204.152.217.239 # getdial.ai
 204.168.175.48 # Revolut
@@ -647,7 +649,9 @@
 212.64.223.53 # ebaumsworld.com
 212.64.223.72 # ebaumsworld.com
 212.83.46.41 # isscr.org
+213.108.21.37 # Dutch HTTP vulnerability
 213.111.149.123 # Roblox
+213.165.37.117 # Dutch HTTP vulnerability
 213.171.208.189 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability"
 213.176.18.145 # Instagram
 213.238.167.10 # ebaumsworld.com
@@ -943,6 +947,7 @@
 57.180.206.7 # infini-cloud.net
 62.113.255.125 # pogo.com
 62.171.130.122 # https://pagos.acueducto.com.co/
+62.204.42.156 # Dutch HTTP vulnerability
 62.238.127.119 # ROBINHOOD
 63.186.43.96 # React CVE-2025-55182
 64.120.94.224 # Deutsche Telekom
@@ -1005,6 +1010,7 @@
 69.62.123.92 # n8n
 70.34.196.214 # foreignpolicy.com
 70.34.216.244 # reliefweb.int
+72.56.94.26 # Dutch HTTP vulnerability
 72.60.104.60 # Apple / App Store
 72.60.56.106 # Performa
 72.60.78.94 # Pegadaian
@@ -1130,6 +1136,7 @@
 89.251.22.110 # Mercantil Servicios Financieros
 89.251.9.57 # projectveritas.com
 89.38.129.99 # UNFPA
+89.42.142.33 # Dutch HTTP vulnerability
 91.107.128.116 # ilo.org
 91.107.129.135 # onlinesim.io
 91.107.136.156 # aljazeera.net
@@ -1178,6 +1185,7 @@
 91.107.254.171 # ebaumsworld.com
 91.107.255.196 # mastodon.xyz
 91.108.241.48 # digg.com
+91.132.59.217 # Dutch HTTP vulnerability
 91.132.59.217 # Dutch HTTP vulnerability
 91.147.92.70 # React CVE-2025-55182
 91.192.81.2 # nypost.com
