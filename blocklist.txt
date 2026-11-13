@@ -331,6 +331,7 @@
 164.92.168.210 # fysm.co
 164.92.172.100 # slate.com
 164.92.225.172 # mp4moviez.legal
+165.154.235.190 # Optimum
 165.22.1.235 # Microsoft
 165.22.18.3 # musicema.com
 165.22.206.116 # Endesa, Enel S.p.A., Enel Group
@@ -479,6 +480,7 @@
 185.248.144.24 # CommBank
 185.31.200.36 # worldwildlife.org
 185.61.208.108 # Google
+185.61.208.117 # Optimum
 185.70.185.70 # newsvl.ru
 185.87.48.156 # penza-elegant.ru
 185.92.182.83 # Slack
