@@ -956,6 +956,7 @@
 62.171.130.122 # https://pagos.acueducto.com.co/
 62.204.42.156 # Dutch HTTP vulnerability
 62.238.127.119 # ROBINHOOD
+62.60.226.98 # Universal Navigation Inc. (DBA “Uniswap Labs”) uniswap.io
 63.186.43.96 # React CVE-2025-55182
 64.120.94.224 # Deutsche Telekom
 64.176.189.63 # climaterealityproject.org
