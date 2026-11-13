@@ -718,6 +718,7 @@
 34.204.76.216 # KeyBank
 34.231.64.159 # Grammarly Inc. fathom.ai
 34.41.213.207 # Navy Federal Credit Union navyfederal.org
+34.42.31.76 # Intuit Inc quickbooks.intuit.com
 34.49.122.129 # Telus
 34.80.136.10 # arabnews.com
 34.93.186.64 # Fairfax County Public Schools System armstronges.fcps.edu
