@@ -507,6 +507,7 @@
 188.245.98.56 # news12.com
 188.34.167.93 # bazicenter.com
 188.64.13.153 # https://188.64.13.153.sslip.io/business Facebook phishing
+190.102.42.24 # WhatsApp
 192.119.64.121 # moeclipse.org
 192.145.236.112 # Costco
 192.163.161.150 # TikTok
