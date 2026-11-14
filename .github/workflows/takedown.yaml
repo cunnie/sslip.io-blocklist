@@ -1,0 +1,57 @@
+name: Update Blocklist from Takedown Notice
+
+on:
+  repository_dispatch:
+    types: [takedown]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: takedown
+  cancel-in-progress: false
+
+jobs:
+  block-ip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate, append, and sort blocklist.txt
+        env:
+          IP_ADDR: ${{ github.event.client_payload.ip }}
+          TARGET: ${{ github.event.client_payload.target }}
+          EMAIL_SUBJECT: ${{ github.event.client_payload.subject }}
+          EMAIL_FROM: ${{ github.event.client_payload.from }}
+        run: |
+          # Validate IP format (IPv4 or IPv6)
+          if [[ ! "$IP_ADDR" =~ ^[0-9a-fA-F.:]+$ ]]; then
+            echo "Invalid IP format: $IP_ADDR"
+            exit 1
+          fi
+
+          # Exit cleanly without touching the file or committing if the IP already exists
+          if grep -qE "^${IP_ADDR}(\s|#|$)" blocklist.txt; then
+            echo "IP $IP_ADDR already exists in blocklist.txt; taking no action."
+            exit 0
+          fi
+
+          # Strip newlines/control chars while preserving slashes, dots, spaces, and hyphens
+          CLEAN_TARGET=$(printf '%s' "$TARGET" | tr -d '\r\n\t' | sed 's/[^[:print:]]//g')
+          ENTRY="${IP_ADDR} # ${CLEAN_TARGET}"
+
+          # Preserve lines 1-17, append new entry to lines 18+, and sort with standard ASCII sort
+          {
+            head -n 17 blocklist.txt
+            {
+              tail -n +18 blocklist.txt
+              echo "$ENTRY"
+            } | grep -v '^[[:space:]]*$' | LC_ALL=C sort
+          } > blocklist.txt.tmp && mv blocklist.txt.tmp blocklist.txt
+
+          git config user.name "Abuse Bot"
+          git config user.email "abuse@nip.io"
+          git add blocklist.txt
+          git commit -m "$EMAIL_SUBJECT" -m "From: $EMAIL_FROM"
+          git push
