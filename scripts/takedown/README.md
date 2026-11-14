@@ -31,6 +31,8 @@ before the script has run**, or mark them unread again if you do.
 4. Run `processTakedownNotices` once by hand to approve the Gmail and external
    request permissions.
 
+**Don't deploy it.** **Deploy** is only for scripts called from outside. Instead, **Run** it.
+
 ## Secrets
 
 Add these under **Project Settings** (gear icon) → **Script Properties**. Never
