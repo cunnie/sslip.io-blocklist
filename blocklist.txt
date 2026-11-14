@@ -769,6 +769,7 @@
 43.134.66.67/24 # Netflix
 43.156.4.197 # Etsy
 43.173.94.152 # ChatGPT
+43.207.141.63 # amazon.co
 43.225.108.140 # aimer-web.jp
 43.229.150.11 # bicommunitynews.co.uk
 44.192.53.252 # imagene-ai.com
