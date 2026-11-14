@@ -482,6 +482,7 @@
 185.31.200.36 # worldwildlife.org
 185.61.208.108 # Google
 185.61.208.117 # Optimum
+185.61.208.87 # Google
 185.70.185.70 # newsvl.ru
 185.87.48.156 # penza-elegant.ru
 185.92.182.83 # Slack
