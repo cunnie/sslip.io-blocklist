@@ -1,36 +1,69 @@
 const CONFIG = {
-  SENDERS: ['soc@phishlabs.com'],
+  // Each source finds unread notices from one sender and extracts { ip, target }.
+  SOURCES: [
+    {
+      name: 'PhishLabs',
+      query: 'from:soc@phishlabs.com is:unread',
+      extract: (msg) => extractDetailsWithGemini(msg.getSubject(), msg.getPlainBody()),
+    },
+    {
+      name: 'Netcraft',
+      query: 'from:netcraft.com filename:xarf.json is:unread',
+      extract: (msg, messages) => extractDetailsFromXarf(messages),
+    },
+  ],
   GITHUB_OWNER: 'cunnie',
   GITHUB_REPO: 'sslip.io-blocklist',
 };
 
 function processTakedownNotices() {
-  const fromQuery = CONFIG.SENDERS.map((s) => `from:${s}`).join(' OR ');
-  const query = `(${fromQuery}) is:unread`;
-  const threads = GmailApp.search(query, 0, 10);
+  for (const source of CONFIG.SOURCES) {
+    const threads = GmailApp.search(source.query, 0, 10);
 
-  for (const thread of threads) {
-    const messages = thread.getMessages();
-    const latestMsg = messages[messages.length - 1];
-    const subject = latestMsg.getSubject();
-    const from = latestMsg.getFrom();
-    const body = latestMsg.getPlainBody();
+    for (const thread of threads) {
+      const messages = thread.getMessages();
+      const latestMsg = messages[messages.length - 1];
+      const subject = latestMsg.getSubject();
+      const from = latestMsg.getFrom();
 
-    try {
-      const extracted = extractDetailsWithGemini(subject, body);
+      try {
+        const extracted = source.extract(latestMsg, messages);
 
-      if (!extracted || !isValidIp(extracted.ip) || !extracted.target) {
-        console.warn(`Could not confidently extract data for thread: ${subject}`);
-        continue;
+        if (!extracted || !isValidIp(extracted.ip) || !extracted.target) {
+          console.warn(`${source.name}: could not confidently extract data for thread: ${subject}`);
+          continue;
+        }
+
+        triggerGitHubTakedown(extracted.ip, extracted.target, subject, from);
+
+        thread.markRead();
+      } catch (err) {
+        console.error(`${source.name}: failed processing "${subject}": ${err.message}`);
       }
-
-      triggerGitHubTakedown(extracted.ip, extracted.target, subject, from);
-
-      thread.markRead();
-    } catch (err) {
-      console.error(`Failed processing "${subject}": ${err.message}`);
     }
   }
+}
+
+// Netcraft attaches an X-ARF report (xarf.json) to each takedown notice.
+// Use the newest message in the thread that has one, in case a later reply
+// in the same thread has no attachment.
+function extractDetailsFromXarf(messages) {
+  const attachment = messages
+    .slice()
+    .reverse()
+    .flatMap((m) => m.getAttachments())
+    .find((a) => /xarf\.json$/i.test(a.getName()));
+  if (!attachment) {
+    return null;
+  }
+
+  const xarf = JSON.parse(attachment.getDataAsString());
+  const ip = xarf.Report?.SourceIp;
+  const org = xarf.OnBehalfOf?.ComplainantOrg;
+  const domain = xarf.OnBehalfOf?.ComplainantOrgDomain;
+  const target = [org, domain].filter(Boolean).join(' ');
+
+  return { ip, target };
 }
 
 function isValidIp(ip) {

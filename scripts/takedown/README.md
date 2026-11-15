@@ -1,16 +1,21 @@
 # Takedown notice processor (Google Apps Script)
 
 `takedown.js` runs in Google Apps Script with access to the abuse mailbox. It
-finds unread takedown notices from PhishLabs, uses Gemini to pull
-out the offending IP address and target brand, and sends a `repository_dispatch`
-event to GitHub. The [takedown workflow](../../.github/workflows/README.md) then
+finds unread takedown notices from PhishLabs and Netcraft, pulls out the
+offending IP address and target brand, and sends a `repository_dispatch`
+event to GitHub Actions [takedown workflow](../../.github/workflows/README.md) then
 adds the IP address to `blocklist.txt`.
 
 ## How it works
 
-1. Searches Gmail for `(from:soc@phishlabs.com) is:unread`
-2. For each thread, sends the latest message's subject and body to Gemini to
-   extract `ip` and `target`.
+1. Searches Gmail once per source in `CONFIG.SOURCES`, up to 10 threads each:
+   - **PhishLabs:** `from:soc@phishlabs.com is:unread`. Sends the latest
+     message's subject and body to Gemini to extract `ip` and `target`.
+   - **Netcraft:** `from:netcraft.com filename:xarf.json is:unread`. Parses the
+     attached `xarf.json`: `ip` is `Report.SourceIp`, and `target` is
+     `OnBehalfOf.ComplainantOrg` + " " + `OnBehalfOf.ComplainantOrgDomain`
+     (for example `Apple Support Scams www.apple.com`). No Gemini call.
+2. Uses the latest message's subject and sender as `subject` and `from`.
 3. POSTs to `https://api.github.com/repos/cunnie/sslip.io-blocklist/dispatches`
    with `event_type: takedown` and a `client_payload` of `ip`, `target`,
    `subject` and `from`.
@@ -44,6 +49,3 @@ put them in the source code.
 | `GEMINI_API_KEY` | A Gemini API key from <https://aistudio.google.com/apikey>. Use whatever property name your `extractDetailsWithGemini` reads.                                  |
 
 Create the GitHub token at <https://github.com/settings/personal-access-tokens>.
-Fine-grained tokens expire, so put a reminder in your calendar to renew it.
-When it expires, dispatches fail with a 401 that you can see in the Apps Script
-**Executions** log.
