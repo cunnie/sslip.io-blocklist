@@ -233,6 +233,7 @@
 144.24.3.30 # React CVE-2025-55182
 144.24.57.205 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability"
 144.24.58.105 # SQL injection vulnerability in Ghost (CVE-2026-26980)
+144.31.14.205 # Dutch HTTP vulnerability
 144.31.14.212 # Slack
 144.31.234.53 # Fox News
 144.31.247.106 # Slack
