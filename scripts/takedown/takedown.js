@@ -92,15 +92,14 @@ function extractDetailsFromNcsc(body) {
 
   // Text between demarcation lines sits at the odd indexes.
   for (let i = 1; i < blocks.length; i += 2) {
-    const lines = blocks[i].split(/\r?\n/).filter((line) => line.trim());
-    if (lines.length === 0) continue;
+    const rows = parseCsv(blocks[i]);
+    if (rows.length === 0) continue;
 
-    const header = parseCsvLine(lines[0]);
-    let ipColumn = header.indexOf('source.ip');
+    let ipColumn = rows[0].indexOf('source.ip');
     if (ipColumn === -1) ipColumn = 1;
 
-    for (const line of lines.slice(1)) {
-      const field = parseCsvLine(line)[ipColumn];
+    for (const row of rows.slice(1)) {
+      const field = row[ipColumn];
       if (field) ips.add(field.trim().replace(/_/g, '.'));
     }
   }
@@ -108,16 +107,27 @@ function extractDetailsFromNcsc(body) {
   return { ips: [...ips], target: 'Dutch HTTP vulnerability' };
 }
 
-// Splits one CSV line, allowing quoted fields that contain commas or "".
-function parseCsvLine(line) {
-  const fields = [];
+// Parses CSV text into rows of fields. Quoted fields may contain commas, ""
+// and line breaks: NCSC's plain-text emails are wrapped at about 76
+// characters, which can put a line break inside a quoted field, e.g.
+// "2026-11-15<newline>20:54:34.161000". Blank lines are skipped.
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
   let field = '';
   let inQuotes = false;
 
-  for (let i = 0; i < line.length; i++) {
-    const c = line[i];
+  const endRow = () => {
+    row.push(field.trim());
+    if (row.length > 1 || row[0] !== '') rows.push(row);
+    row = [];
+    field = '';
+  };
+
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
     if (inQuotes) {
-      if (c === '"' && line[i + 1] === '"') {
+      if (c === '"' && text[i + 1] === '"') {
         field += '"';
         i++;
       } else if (c === '"') {
@@ -128,14 +138,16 @@ function parseCsvLine(line) {
     } else if (c === '"') {
       inQuotes = true;
     } else if (c === ',') {
-      fields.push(field);
+      row.push(field);
       field = '';
-    } else {
+    } else if (c === '\n') {
+      endRow();
+    } else if (c !== '\r') {
       field += c;
     }
   }
-  fields.push(field.trim());
-  return fields;
+  endRow();
+  return rows;
 }
 
 function isValidIp(ip) {
