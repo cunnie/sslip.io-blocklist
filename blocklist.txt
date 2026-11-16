@@ -1205,7 +1205,6 @@
 91.107.255.196 # mastodon.xyz
 91.108.241.48 # digg.com
 91.132.59.217 # Dutch HTTP vulnerability
-91.132.59.217 # Dutch HTTP vulnerability
 91.147.92.70 # React CVE-2025-55182
 91.192.81.2 # nypost.com
 91.202.233.230 # Interac

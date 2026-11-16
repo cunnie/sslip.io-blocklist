@@ -1,15 +1,24 @@
 const CONFIG = {
-  // Each source finds unread notices from one sender and extracts { ip, target }.
+  // Each source finds unread notices from one sender and extracts
+  // { ips: [...], target }.
   SOURCES: [
     {
       name: 'PhishLabs',
       query: 'from:soc@phishlabs.com is:unread',
-      extract: (msg) => extractDetailsWithGemini(msg.getSubject(), msg.getPlainBody()),
+      extract: (msg) => {
+        const result = extractDetailsWithGemini(msg.getSubject(), msg.getPlainBody());
+        return result && { ips: [result.ip], target: result.target };
+      },
     },
     {
       name: 'Netcraft',
       query: 'from:netcraft.com filename:xarf.json is:unread',
       extract: (msg, messages) => extractDetailsFromXarf(messages),
+    },
+    {
+      name: 'NCSC',
+      query: 'from:reports@ncsc.nl is:unread',
+      extract: (msg) => extractDetailsFromNcsc(msg.getPlainBody()),
     },
   ],
   GITHUB_OWNER: 'cunnie',
@@ -28,13 +37,21 @@ function processTakedownNotices() {
 
       try {
         const extracted = source.extract(latestMsg, messages);
+        const ips = (extracted?.ips || []).filter(Boolean).map((ip) => ip.trim());
+        const validIps = ips.filter(isValidIp);
 
-        if (!extracted || !isValidIp(extracted.ip) || !extracted.target) {
+        if (validIps.length < ips.length) {
+          const invalid = ips.filter((ip) => !isValidIp(ip));
+          console.warn(`${source.name}: ignoring invalid IP(s) ${invalid.join(', ')} in thread: ${subject}`);
+        }
+        if (validIps.length === 0 || !extracted.target) {
           console.warn(`${source.name}: could not confidently extract data for thread: ${subject}`);
           continue;
         }
 
-        triggerGitHubTakedown(extracted.ip, extracted.target, subject, from);
+        // One dispatch per email, with the IPs space-separated, so a burst of
+        // IPs can't be lost to the workflow's one-pending-run concurrency limit.
+        triggerGitHubTakedown(validIps.join(' '), extracted.target, subject, from);
 
         thread.markRead();
       } catch (err) {
@@ -63,7 +80,62 @@ function extractDetailsFromXarf(messages) {
   const domain = xarf.OnBehalfOf?.ComplainantOrgDomain;
   const target = [org, domain].filter(Boolean).join(' ');
 
-  return { ip, target };
+  return { ips: [ip], target };
+}
+
+// NCSC reports list affected hosts in a CSV between two lines of #####...
+// The source.ip column (normally the 2nd) holds IPv4 addresses with
+// underscores instead of dots, e.g. 201_34_147_209.
+function extractDetailsFromNcsc(body) {
+  const blocks = body.split(/^\s*#{10,}\s*$/m);
+  const ips = new Set();
+
+  // Text between demarcation lines sits at the odd indexes.
+  for (let i = 1; i < blocks.length; i += 2) {
+    const lines = blocks[i].split(/\r?\n/).filter((line) => line.trim());
+    if (lines.length === 0) continue;
+
+    const header = parseCsvLine(lines[0]);
+    let ipColumn = header.indexOf('source.ip');
+    if (ipColumn === -1) ipColumn = 1;
+
+    for (const line of lines.slice(1)) {
+      const field = parseCsvLine(line)[ipColumn];
+      if (field) ips.add(field.trim().replace(/_/g, '.'));
+    }
+  }
+
+  return { ips: [...ips], target: 'Dutch HTTP vulnerability' };
+}
+
+// Splits one CSV line, allowing quoted fields that contain commas or "".
+function parseCsvLine(line) {
+  const fields = [];
+  let field = '';
+  let inQuotes = false;
+
+  for (let i = 0; i < line.length; i++) {
+    const c = line[i];
+    if (inQuotes) {
+      if (c === '"' && line[i + 1] === '"') {
+        field += '"';
+        i++;
+      } else if (c === '"') {
+        inQuotes = false;
+      } else {
+        field += c;
+      }
+    } else if (c === '"') {
+      inQuotes = true;
+    } else if (c === ',') {
+      fields.push(field);
+      field = '';
+    } else {
+      field += c;
+    }
+  }
+  fields.push(field.trim());
+  return fields;
 }
 
 function isValidIp(ip) {

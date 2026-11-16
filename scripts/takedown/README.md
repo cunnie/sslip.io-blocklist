@@ -1,8 +1,8 @@
 # Takedown notice processor (Google Apps Script)
 
 `takedown.js` runs in Google Apps Script with access to the abuse mailbox. It
-finds unread takedown notices from PhishLabs and Netcraft, pulls out the
-offending IP address and target brand, and sends a `repository_dispatch`
+finds unread takedown notices from PhishLabs, Netcraft and the Dutch NCSC,
+pulls out the offending IP addresses and target brand, and sends a `repository_dispatch`
 event to GitHub Actions [takedown workflow](../../.github/workflows/README.md) then
 adds the IP address to `blocklist.txt`.
 
@@ -15,10 +15,17 @@ adds the IP address to `blocklist.txt`.
      attached `xarf.json`: `ip` is `Report.SourceIp`, and `target` is
      `OnBehalfOf.ComplainantOrg` + " " + `OnBehalfOf.ComplainantOrgDomain`
      (for example `Apple Support Scams www.apple.com`). No Gemini call.
+   - **NCSC:** `from:reports@ncsc.nl is:unread`. Reads the CSV between the
+     `#####################################` lines and takes every IP address
+     in the `source.ip` column (normally the 2nd), changing underscores to dots
+     (`201_34_147_209` → `201.34.147.209`) and dropping duplicates. `target` is
+     always `Dutch HTTP vulnerability`. IPv4 only. No Gemini call.
 2. Uses the latest message's subject and sender as `subject` and `from`.
 3. POSTs to `https://api.github.com/repos/cunnie/sslip.io-blocklist/dispatches`
    with `event_type: takedown` and a `client_payload` of `ip`, `target`,
-   `subject` and `from`.
+   `subject` and `from`. An email with several IP addresses (NCSC) sends one
+   dispatch with them space-separated in `ip`, so none are lost to the
+   workflow's concurrency limit.
 4. When GitHub returns 204, marks the thread read. Threads that fail extraction
    or dispatch stay unread and are retried on the next run.
 

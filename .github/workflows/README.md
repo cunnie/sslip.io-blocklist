@@ -6,12 +6,16 @@ Triggered by a `repository_dispatch` event with `event_type: takedown`, which
 the [takedown notice processor](../../scripts/takedown/README.md) sends. The
 workflow:
 
-1. Checks that `client_payload.ip` looks like an IPv4 or IPv6 address.
-2. Exits without changing anything if the IP address is already in
+1. Splits `client_payload.ip` on spaces. It may hold one IP address or several.
+2. Skips any address that doesn't look like IPv4 or IPv6, or that is already in
    `blocklist.txt`.
-3. Appends `<ip> # <target>` and sorts every line after the 17-line header.
-4. Commits as "Abuse Bot" using the email subject as the commit message, then
-   pushes to `main`.
+3. Appends `<ip> # <target>` for each remaining address and sorts every line
+   after the 17-line header.
+4. Commits as "Abuse Bot" using the email subject as the commit message, with
+   the sender in the body, then pushes to `main`.
+
+If nothing is new, it exits without committing. It fails only when the payload
+contains no valid IP address at all.
 
 ### Expected payload
 
@@ -19,7 +23,7 @@ workflow:
 {
   "event_type": "takedown",
   "client_payload": {
-    "ip": "192.0.2.1",
+    "ip": "192.0.2.1 192.0.2.2",
     "target": "Example Bank",
     "subject": "Phishing report: ...",
     "from": "soc@phishlabs.com"
