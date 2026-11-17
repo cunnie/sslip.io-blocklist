@@ -1033,6 +1033,7 @@
 70.34.216.244 # reliefweb.int
 72.56.94.26 # Dutch HTTP vulnerability
 72.60.104.60 # Apple / App Store
+72.60.112.232 # Amazon.com, Inc amazon.co
 72.60.56.106 # Performa
 72.60.78.94 # Pegadaian
 72.61.203.163 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability..."
