@@ -20,12 +20,18 @@ adds the IP address to `blocklist.txt`.
      in the `source.ip` column (normally the 2nd), changing underscores to dots
      (`201_34_147_209` → `201.34.147.209`) and dropping duplicates. `target` is
      always `Dutch HTTP vulnerability`. IPv4 only.
-   - **Doppel:** `from:takedowns@doppel.com is:unread`. Refangs the URL on
-     each `Infringing Site:` line (`hxxp[://]72[.]60[.]112[.]232[.]sslip[.]io`
-     → `72.60.112.232.sslip.io`) and takes the IP address embedded in the
-     sslip.io/nip.io hostname.`target` is
-     the rights holder + " " + `Official Site:` (for example
-     `Amazon.com, Inc amazon.co`).
+   - **Doppel:** `from:takedowns@doppel.com is:unread`. Handles both kinds of
+     Doppel notice:
+     - Trademark: the site is on an `Infringing Site:` line, and `target` is
+       the rights holder + " " + `Official Site:` (for example
+       `Amazon.com, Inc amazon.co`).
+     - Phishing: the sites are on a `Phishing Site(s):` line, and `target` is
+       `Impersonated Organization:` + " " + `Legitimate Site:` (for example
+       `Coinbase Inc. deribit.com`).
+
+     Each site is refanged (`deribit[.]65[.]109[.]236[.]128[.]nip[.]io/login`
+     → `deribit.65.109.236.128.nip.io`), and the IP address embedded in the
+     sslip.io/nip.io hostname is used.
 2. Uses the latest message's subject and sender as `subject` and `from`.
 3. POSTs to `https://api.github.com/repos/cunnie/sslip.io-blocklist/dispatches`
    with `event_type: takedown` and a `client_payload` of `ip`, `target`,

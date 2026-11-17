@@ -112,21 +112,29 @@ function extractDetailsFromNcsc(body) {
   return { ips: [...ips], target: 'Dutch HTTP vulnerability' };
 }
 
-// Doppel notices name the site on an "Infringing Site:" line with a defanged
-// URL, e.g. hxxp[://]72[.]60[.]112[.]232[.]sslip[.]io. The IP to block is
-// the one embedded in that hostname. Ignore the "IP Address: Domain IP
-// Address:" line: that's the address of our own nameserver/web server.
-// target is the rights holder plus the "Official Site:", e.g.
-// "Amazon.com, Inc amazon.co".
+// Doppel sends two kinds of notice:
+// - Trademark: the site is on an "Infringing Site:" line, the brand is in
+//   "on behalf of X, the trademark..." and its site is "Official Site:".
+// - Phishing: the site(s) are on a "Phishing Site(s):" line, the brand is
+//   "Impersonated Organization:" and its site is "Legitimate Site:".
+// Sites are defanged, with or without a scheme, e.g.
+// hxxp[://]72[.]60[.]112[.]232[.]sslip[.]io or deribit[.]65[.]109[.]236[.]128[.]nip[.]io/login.
+// The IP to block is the one embedded in the hostname. Ignore the
+// "Domain IP Address:" line: that's the address of our own nameserver/web
+// server. target is the brand plus its site, e.g. "Amazon.com, Inc amazon.co"
+// or "Coinbase Inc. deribit.com".
 function extractDetailsFromDoppel(body) {
   const ips = new Set();
-  for (const m of body.matchAll(/^\s*Infringing Site:\s*(\S+)/gim)) {
-    const ip = ipFromSslipHostname(hostnameFromDefangedUrl(m[1]));
-    if (ip) ips.add(ip);
+  for (const m of body.matchAll(/^[ \t]*(?:Infringing|Phishing) Site(?:\(s\))?:[ \t]*(.+)$/gim)) {
+    for (const site of m[1].split(/[\s,]+/).filter(Boolean)) {
+      const ip = ipFromSslipHostname(hostnameFromDefangedUrl(site));
+      if (ip) ips.add(ip);
+    }
   }
 
-  const official = body.match(/^\s*Official Site:\s*(\S+)/im)?.[1];
+  const official = body.match(/^\s*(?:Official|Legitimate) Site:\s*(\S+)/im)?.[1];
   const owner = (
+    body.match(/^[ \t]*Impersonated Organization:[ \t]*(.+?)[ \t]*$/im) ||
     body.match(/on behalf of\s+(.+?)\s*,\s*the trademark/i) ||
     body.match(/is using\s+(.+?)\s+trademark/i)
   )?.[1].replace(/\s+/g, ' ');
