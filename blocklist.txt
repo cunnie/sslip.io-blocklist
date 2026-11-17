@@ -18,6 +18,8 @@
 101.32.189.230 # TikTok
 101.99.90.126 # Amazon
 103.137.249.70 # Dutch HTTP vulnerability
+103.137.250.60 # Dutch HTTP vulnerability
+103.137.251.131 # Dutch HTTP vulnerability
 103.161.184.149 # UNFPA
 103.212.136.235 # WhatsApp
 103.231.75.79 # pcgamesn.com
@@ -429,6 +431,7 @@
 176.222.53.110 # freepik.com
 176.222.55.49 # slate.com
 176.58.111.183 # this-person-does-not-exist.com
+176.65.148.25 # Dutch HTTP vulnerability
 178.104.90.18 # kraken.com
 178.105.215.186 # BetKing
 178.105.92.231 # Instagram
@@ -536,6 +539,7 @@
 193.168.141.15 # minorityrights.org
 193.17.182.172 # Foxnews
 193.187.129.82 # Bancolombia
+193.23.202.10 # Dutch HTTP vulnerability
 193.23.55.15 # plus.im
 193.233.126.53 # code injection
 193.24.209.143 # globalpolicy.org
@@ -639,6 +643,7 @@
 209.38.234.73 # fardanews.com
 209.38.250.14 # concern.net
 209.38.38.51 # cesr.org
+209.38.39.210 # Dutch HTTP vulnerability
 209.54.104.181 # Apple
 212.108.83.24 # acquisition.com
 212.132.124.61 # key2gaming.com
@@ -706,9 +711,11 @@
 3.6.171.182 # hasura.io
 3.67.106.44 # nabaliaenergia.com
 3.8.119.3 # optical.toys
+31.10.5.187 # Dutch HTTP vulnerability
 31.129.106.225 # 1800respect.org.au
 31.14.139.105 # cursor.com
 31.171.131.116 # Marsupilami / Pathé
+31.210.172.110 # Dutch HTTP vulnerability
 31.214.157.178 # freeimages
 31.220.87.136 # Indusind Bank
 31.56.113.98 # Slack
@@ -1070,6 +1077,7 @@
 78.141.193.47 # Lycos
 78.141.246.36 # wccftech.com
 78.153.139.39 # easycomposites.co.uk
+78.17.106.102 # Dutch HTTP vulnerability
 78.17.70.177 # Raccoon Labs Pte Ltd, jup.ag
 78.17.70.177 # numerous
 78.47.196.26 # dailywire.com
@@ -1092,6 +1100,7 @@
 80.71.144.178 # chemdryloscabos.com
 80.71.224.105 # Spotify
 80.74.27.49 # Dutch HTTP vulnerability
+80.74.28.54 # Dutch HTTP vulnerability
 80.78.30.192 # Banco Galicia
 80.87.206.55 # dalfak.com
 80.90.179.93 # Dutch HTTP vulnerability
@@ -1136,6 +1145,7 @@
 86.53.110.170 # Craigslist
 87.106.236.104 # Apple / iCloud
 87.120.254.22 # Interac
+87.199.200.143 # Dutch HTTP vulnerability
 87.247.170.234 # shenoto.com
 87.58.152.45 # HDFC Bank
 87.58.197.171 # Общество с ограниченной ответственностью "ВК"
