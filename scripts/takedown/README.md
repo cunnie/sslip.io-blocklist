@@ -1,7 +1,7 @@
 # Takedown notice processor (Google Apps Script)
 
 `takedown.js` runs in Google Apps Script with access to the abuse mailbox. It
-finds unread takedown notices from PhishLabs, Netcraft and the Dutch NCSC,
+finds unread takedown notices from PhishLabs, Netcraft, Doppel and the Dutch NCSC,
 pulls out the offending IP addresses and target brand, and sends a `repository_dispatch`
 event to GitHub Actions [takedown workflow](../../.github/workflows/README.md) then
 adds the IP address to `blocklist.txt`.
@@ -14,12 +14,18 @@ adds the IP address to `blocklist.txt`.
    - **Netcraft:** `from:netcraft.com filename:xarf.json is:unread`. Parses the
      attached `xarf.json`: `ip` is `Report.SourceIp`, and `target` is
      `OnBehalfOf.ComplainantOrg` + " " + `OnBehalfOf.ComplainantOrgDomain`
-     (for example `Apple Support Scams www.apple.com`). No Gemini call.
+     (for example `Apple Support Scams www.apple.com`).
    - **NCSC:** `from:reports@ncsc.nl is:unread`. Reads the CSV between the
      `#####################################` lines and takes every IP address
      in the `source.ip` column (normally the 2nd), changing underscores to dots
      (`201_34_147_209` → `201.34.147.209`) and dropping duplicates. `target` is
-     always `Dutch HTTP vulnerability`. IPv4 only. No Gemini call.
+     always `Dutch HTTP vulnerability`. IPv4 only.
+   - **Doppel:** `from:takedowns@doppel.com is:unread`. Refangs the URL on
+     each `Infringing Site:` line (`hxxp[://]72[.]60[.]112[.]232[.]sslip[.]io`
+     → `72.60.112.232.sslip.io`) and takes the IP address embedded in the
+     sslip.io/nip.io hostname.`target` is
+     the rights holder + " " + `Official Site:` (for example
+     `Amazon.com, Inc amazon.co`).
 2. Uses the latest message's subject and sender as `subject` and `from`.
 3. POSTs to `https://api.github.com/repos/cunnie/sslip.io-blocklist/dispatches`
    with `event_type: takedown` and a `client_payload` of `ip`, `target`,

@@ -20,6 +20,11 @@ const CONFIG = {
       query: 'from:reports@ncsc.nl is:unread',
       extract: (msg) => extractDetailsFromNcsc(msg.getPlainBody()),
     },
+    {
+      name: 'Doppel',
+      query: 'from:takedowns@doppel.com is:unread',
+      extract: (msg) => extractDetailsFromDoppel(msg.getPlainBody()),
+    },
   ],
   GITHUB_OWNER: 'cunnie',
   GITHUB_REPO: 'sslip.io-blocklist',
@@ -105,6 +110,58 @@ function extractDetailsFromNcsc(body) {
   }
 
   return { ips: [...ips], target: 'Dutch HTTP vulnerability' };
+}
+
+// Doppel notices name the site on an "Infringing Site:" line with a defanged
+// URL, e.g. hxxp[://]72[.]60[.]112[.]232[.]sslip[.]io. The IP to block is
+// the one embedded in that hostname. Ignore the "IP Address: Domain IP
+// Address:" line: that's the address of our own nameserver/web server.
+// target is the rights holder plus the "Official Site:", e.g.
+// "Amazon.com, Inc amazon.co".
+function extractDetailsFromDoppel(body) {
+  const ips = new Set();
+  for (const m of body.matchAll(/^\s*Infringing Site:\s*(\S+)/gim)) {
+    const ip = ipFromSslipHostname(hostnameFromDefangedUrl(m[1]));
+    if (ip) ips.add(ip);
+  }
+
+  const official = body.match(/^\s*Official Site:\s*(\S+)/im)?.[1];
+  const owner = (
+    body.match(/on behalf of\s+(.+?)\s*,\s*the trademark/i) ||
+    body.match(/is using\s+(.+?)\s+trademark/i)
+  )?.[1].replace(/\s+/g, ' ');
+  const target = [owner, official].filter(Boolean).join(' ');
+
+  return { ips: [...ips], target };
+}
+
+// hxxp[://]72[.]60[.]112[.]232[.]sslip[.]io/path → 72.60.112.232.sslip.io
+function hostnameFromDefangedUrl(url) {
+  const refanged = url
+    .replace(/\[(\.|:\/\/|:)\]/g, '$1')
+    .replace(/\(\.\)/g, '.')
+    .replace(/^hxxp/i, 'http');
+  return refanged
+    .replace(/^[a-z]+:\/\//i, '')
+    .split(/[\/?#:]/)[0]
+    .toLowerCase()
+    .replace(/\.$/, '');
+}
+
+// Pulls the embedded IP from an sslip.io/nip.io hostname, e.g.
+// 1.2.3.4.sslip.io, www.1-2-3-4.sslip.io, foo-1.2.3.4.nip.io,
+// 2001-db8--1.sslip.io. Returns null if there isn't one.
+function ipFromSslipHostname(hostname) {
+  const ipv4 = hostname.match(/(?:^|[.-])(\d{1,3}(?:[.-]\d{1,3}){3})\.(?:sslip|nip)\.io$/);
+  if (ipv4) {
+    return ipv4[1].replace(/-/g, '.');
+  }
+  const ipv6 = hostname.match(/(?:^|\.)([0-9a-f]*-[0-9a-f-]*)\.sslip\.io$/);
+  if (ipv6) {
+    const ip = ipv6[1].replace(/-/g, ':');
+    if (isValidIp(ip)) return ip;
+  }
+  return null;
 }
 
 // Parses CSV text into rows of fields. Quoted fields may contain commas, ""
