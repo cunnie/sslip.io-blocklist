@@ -1047,6 +1047,7 @@
 72.60.78.94 # Pegadaian
 72.61.203.163 # "Your version of Ghost is vulnerable to a critical SQL injection vulnerability..."
 72.61.214.93 # TikTok
+72.62.161.109 # Citadel LLC citadel.com
 72.62.243.209 # Tokyo Metropolitan Police Department
 72.62.71.182 # WhatsApp / Mikha Internal Comms
 74.0.48.198 # coinbase
