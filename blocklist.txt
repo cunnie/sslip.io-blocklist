@@ -941,6 +941,7 @@
 5.75.207.83 # ebaumsworld.com
 5.75.233.237 # fhi360.org
 5.78.110.219 # thestar.com
+5.78.116.151 # Filmora
 5.78.117.154 # nypost.com
 5.78.51.159 # arriyadiyah.com
 5.78.58.233 # csmonitor.com
