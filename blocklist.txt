@@ -529,6 +529,7 @@
 192.249.120.152 # Costco Wholesale
 192.249.126.143 # Xfinity
 192.253.229.229 # TikTok
+192.88.180.137 # Tasheel Finance
 192.9.152.157 # slate.com
 192.9.153.69 # store.steampowered.com
 192.9.157.126 # obsproject.com
