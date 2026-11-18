@@ -1042,6 +1042,7 @@
 69.62.123.92 # n8n
 70.34.196.214 # foreignpolicy.com
 70.34.216.244 # reliefweb.int
+72.56.70.176 # Dutch HTTP vulnerability
 72.56.94.26 # Dutch HTTP vulnerability
 72.60.104.60 # Apple / App Store
 72.60.112.232 # Amazon.com, Inc amazon.co
