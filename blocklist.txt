@@ -858,6 +858,7 @@
 45.8.147.169 # csmonitor.com
 45.8.147.233 # mojogem.com
 45.8.21.98 # doostihaa.com
+45.8.224.144 # Remote Code Execution in PHP (CVE-2026-109619)
 45.82.251.70 # ??
 45.86.63.248 # Bank of America
 45.86.67.236 # Apple / iCloud
