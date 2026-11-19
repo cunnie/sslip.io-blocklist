@@ -74,6 +74,7 @@
 107.189.25.197 # Interac
 107.189.5.14 # amazon.co.jp
 108.165.128.113 # concern.net
+108.165.33.113 # nginx HTTP/2 (CVE-2026-123007)
 108.174.155.6 # Investec
 108.59.199.190 # stthomasaquinassociety.org
 108.61.171.127 # ple.com.au
@@ -87,10 +88,12 @@
 109.120.176.184 # arabnews.com
 109.120.187.71 # now.org
 109.120.188.67 # dppo.pro
+109.122.27.55 # nginx HTTP/2 (CVE-2026-123007)
 109.172.80.235 # slate.com
 109.176.198.98 # beparsi.com
 109.205.181.138 # Bancolombia
 109.61.95.86 # wickr.com
+109.74.195.166 # nginx HTTP/2 (CVE-2026-123007)
 111.68.15.82 # Cloudflare
 113.105.100.25 # China Telecom, has told us that public DNS queries...
 113.30.191.120 # arxiv.org
@@ -266,11 +269,13 @@
 149.104.107.155 # EBSA (?)
 149.104.107.220 # EBSA (?)
 149.248.15.223 # abc13.com
+149.33.7.12 # nginx HTTP/2 (CVE-2026-123007)
 15.204.89.177 # boursemrooz.com
 15.235.184.26 # byond
 15.235.207.99 # ghost.org
 15.235.86.211 # Wells Fargo
 150.40.98.70 # Hana 1Q (하나인큐 / 하나원큐) South Korean banking service (Hana Bank)
+151.242.165.32 # nginx HTTP/2 (CVE-2026-123007)
 151.243.190.72 # Robinhood
 151.244.30.56 # Tasheel Finance
 151.245.163.92 # Fox News
@@ -297,6 +302,7 @@
 156.255.1.134 # download.cnet.com
 157.173.125.142 # Apple
 157.245.96.129 # atomapi.in
+157.254.18.166 # nginx HTTP/2 (CVE-2026-123007)
 157.90.149.110 # beyondexgay.com
 157.90.245.228 # sputnikglobe.com
 157.90.28.252 # fruitcraft.co
@@ -482,8 +488,11 @@
 185.226.92.129 # metmuseum.org
 185.229.65.160 # ¿"benarponpombahk"?
 185.230.143.180 # jhu.edu
+185.231.59.15 # nginx HTTP/2 (CVE-2026-123007)
+185.231.59.152 # nginx HTTP/2 (CVE-2026-123007)
 185.242.245.98 # Desjardins
 185.244.218.204 # csmonitor.com
+185.245.83.159 # nginx HTTP/2 (CVE-2026-123007)
 185.248.144.24 # CommBank
 185.31.200.36 # worldwildlife.org
 185.61.208.108 # Google
@@ -556,6 +565,7 @@
 194.146.123.175 # kickasstorrents.to
 194.147.115.204 # Dutch HTTP vulnerability
 194.147.115.204.sslip.io # Dutch HTTP vulnerability
+194.147.35.175 # nginx HTTP/2 (CVE-2026-123007)
 194.15.152.82 # csmonitor.com
 194.163.175.75 # Claude
 194.164.33.40 # Dutch HTTP vulnerability
@@ -651,6 +661,7 @@
 212.132.124.61 # key2gaming.com
 212.2.37.20 # JPMorgan Chase / Chase.com
 212.24.110.231 # seclists.org
+212.60.151.88 # nginx HTTP/2 (CVE-2026-123007)
 212.64.193.246 # ebaumsworld.com
 212.64.193.61 # ebaumsworld.com
 212.64.193.63 # ebaumsworld.com
@@ -671,6 +682,7 @@
 212.64.223.51 # ebaumsworld.com
 212.64.223.53 # ebaumsworld.com
 212.64.223.72 # ebaumsworld.com
+212.71.244.234 # nginx HTTP/2 (CVE-2026-123007)
 212.83.46.41 # isscr.org
 213.108.21.37 # Dutch HTTP vulnerability
 213.111.149.123 # Roblox
@@ -726,6 +738,7 @@
 31.59.209.5 # AutoTrader (Cox Auto)
 31.70.153.49 # State Street / Charles River Development
 31.76.240.211 # "a bot selling drugs"
+31.76.39.246 # nginx HTTP/2 (CVE-2026-123007)
 32.186.93.121 # Langley FCU Banking
 34.117.27.160 # TikTok
 34.125.139.171 # Linkedin
@@ -787,6 +800,7 @@
 43.207.141.63 # amazon.co
 43.225.108.140 # aimer-web.jp
 43.229.150.11 # bicommunitynews.co.uk
+43.245.226.15 # nginx HTTP/2 (CVE-2026-123007)
 44.192.53.252 # imagene-ai.com
 45.10.24.125 # Grammarly Inc. fathom.ai
 45.11.182.161 # thestar.com
@@ -1132,6 +1146,7 @@
 84.200.24.243 # Microsoft
 84.32.100.30 # speakeasy / fusionconnect
 84.32.190.7 # slate.com
+84.46.239.203 # nginx HTTP/2 (CVE-2026-123007)
 85.155.176.74 # Apple
 85.159.226.73 # substack.com
 85.159.229.32 # pikabu.ru
@@ -1163,6 +1178,8 @@
 88.99.21.170 # csmonitor.com
 89.107.62.251 # limetorrents.lol
 89.110.65.182 # apple.com
+89.116.181.34 # nginx HTTP/2 (CVE-2026-123007)
+89.117.120.150 # nginx HTTP/2 (CVE-2026-123007)
 89.125.209.243 # Citadel LLC citadel.com
 89.167.102.27 # some weird trading platform
 89.167.63.119 # revolut.com
@@ -1250,12 +1267,14 @@
 92.246.137.149 # foreignpolicy.com
 92.5.14.36 # Remote Code Execution in PHP (CVE-2026-109619)
 92.5.61.220 # Delivery Hero
+92.5.87.103 # nginx HTTP/2 (CVE-2026-123007)
 92.50.249.198 # mechel.ru
 92.51.45.76 # rescue.org
 93.113.25.186 # phishing command & control panel
 93.127.160.24 # DHL
 93.127.160.4 # apple.com
 93.127.223.129 # reliefweb.int
+93.127.223.24 # nginx HTTP/2 (CVE-2026-123007)
 93.188.161.162 # nypost.com
 93.88.74.138 # Dutch HTTP vulnerability
 94.103.92.125 # arriyadiyah.com
