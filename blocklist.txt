@@ -432,6 +432,7 @@
 176.222.55.49 # slate.com
 176.58.111.183 # this-person-does-not-exist.com
 176.65.148.25 # Dutch HTTP vulnerability
+177.128.208.45 # Interisk StrategyOS X
 178.104.90.18 # kraken.com
 178.105.215.186 # BetKing
 178.105.92.231 # Instagram
