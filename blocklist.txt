@@ -1255,6 +1255,7 @@
 91.216.104.115 # Google
 91.217.206.29 # DHL
 91.225.217.17 # weather.com
+91.229.239.152 # JPMorgan Chase / Chase.com
 91.241.49.48 # wordreference.com
 91.92.41.99 # Kraken kraken.com
 91.98.134.136 # TikTok
