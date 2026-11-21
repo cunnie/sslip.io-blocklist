@@ -610,6 +610,7 @@
 199.247.14.108 # brothersroad.org
 199.250.203.93 # Xfinity
 199.91.220.41 # Raccoon Labs Pte Ltd,
+2.152.86.230 # Kraken kraken.com
 2.24.124.66 # Mercado Livre (Brazil)
 2.24.125.77 # MercadoLibre mercadolibre.com
 2.25.121.76 # Amazon
