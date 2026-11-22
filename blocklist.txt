@@ -1017,6 +1017,7 @@
 64.95.11.149 # Paperless Post
 64.95.12.182 # Paperless Post
 64.95.13.216 # Paperless Post
+64.95.13.85 # Paperless Post
 64.95.13.98 # "phishing content"
 65.0.177.47 # Binance
 65.108.247.57 # pcgamesn.com
