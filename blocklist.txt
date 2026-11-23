@@ -302,6 +302,7 @@
 154.90.54.178 # khanacademy.org
 156.255.1.134 # download.cnet.com
 157.173.125.142 # Apple
+157.230.247.17 # Scotiabank / Scotiabank
 157.245.96.129 # atomapi.in
 157.254.18.166 # nginx HTTP/2 (CVE-2026-123007)
 157.90.149.110 # beyondexgay.com
