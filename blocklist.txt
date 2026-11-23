@@ -623,6 +623,7 @@
 20.124.199.183 # Costco
 20.153.153.28 # Momentum Group
 20.169.219.52 # Costco
+20.197.27.216 # Wells Fargo / Wells Fargo Vantage
 20.201.66.162 # Comprovação BNDES
 20.233.103.150 # ChatGPT
 20.55.22.3 # Costco
