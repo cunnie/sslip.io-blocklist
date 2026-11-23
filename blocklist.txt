@@ -446,6 +446,7 @@
 178.128.194.220 # uisp.com
 178.128.253.192 # aljazeera.net
 178.128.38.7 # gitlab-staging.riders.ai
+178.17.240.21 # ING Group www.ing.com
 178.20.47.52 # arriyadiyah.com
 178.236.246.214 # madmaxworld.tv
 178.32.224.219 # superuser.com
