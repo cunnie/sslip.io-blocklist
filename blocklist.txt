@@ -1069,6 +1069,7 @@
 68.183.46.0 # tacticaltech.org
 69.169.109.120 # Microsoft
 69.62.123.92 # n8n
+69.80.225.127 # Tasheel United Company for Financial Services
 70.34.196.214 # foreignpolicy.com
 70.34.216.244 # reliefweb.int
 72.56.124.93 # Dutch HTTP vulnerability
