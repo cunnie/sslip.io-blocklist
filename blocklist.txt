@@ -1077,6 +1077,7 @@
 69.80.225.127 # Tasheel United Company for Financial Services
 70.34.196.214 # foreignpolicy.com
 70.34.216.244 # reliefweb.int
+72.56.124.108 # Dutch HTTP vulnerability
 72.56.124.93 # Dutch HTTP vulnerability
 72.56.70.176 # Dutch HTTP vulnerability
 72.56.94.26 # Dutch HTTP vulnerability
