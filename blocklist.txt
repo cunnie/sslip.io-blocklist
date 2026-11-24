@@ -1315,6 +1315,7 @@
 94.156.175.27 # webmail
 94.156.175.28 # phishing, can't read, Valkyrie Hosting
 94.177.198.203 # Apple
+94.241.171.124 # Intact Financial Corporation / Intact Financial Corporation
 95.111.255.96 # Tripadvisor
 95.164.16.5 # sbs.com.au
 95.164.22.254 # getdrupe.com
