@@ -809,6 +809,7 @@
 43.134.66.67 # Netflix, https://nf-43-134-66-67.sslip.io/sg
 43.134.66.67/24 # Netflix
 43.156.4.197 # Etsy
+43.161.249.23 # Amazon.com, Inc amazon.co
 43.173.94.152 # ChatGPT
 43.207.141.63 # amazon.co
 43.225.108.140 # aimer-web.jp
