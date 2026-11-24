@@ -1321,6 +1321,7 @@
 95.179.170.223 # credibilitycoalition.org
 95.179.217.91 # download.cnet.com
 95.179.245.161 # mobile.de
+95.211.46.108 # PeopleVine
 95.216.109.218 # beintheknow.org
 95.216.147.91 # roozno.com
 95.216.186.128 # artforum.com
