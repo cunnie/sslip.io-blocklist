@@ -312,6 +312,7 @@
 157.90.28.252 # fruitcraft.co
 158.160.32.235 # atomyze.ru
 158.178.229.68 # usatoday.com
+158.220.127.7 # Amazon.com, Inc amazon.co
 158.247.223.122 # Some Japanese site
 158.69.116.36 # Yatırım Finansman
 159.195.17.180 # Orca
