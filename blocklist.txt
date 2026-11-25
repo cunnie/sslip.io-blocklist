@@ -621,6 +621,7 @@
 2.152.86.230 # Kraken kraken.com
 2.24.124.66 # Mercado Livre (Brazil)
 2.24.125.77 # MercadoLibre mercadolibre.com
+2.24.125.99 # OpenAI Inc. openai.com/blog/chatgpt
 2.25.121.76 # Amazon
 2.25.209.181 # BONDDESK
 2.26.123.138 # Telegram Mini App that offers gambling games
