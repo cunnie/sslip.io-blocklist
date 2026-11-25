@@ -730,6 +730,7 @@
 23.27.202.35 # Apple Online Store
 23.88.103.245 # laughfactory.com
 23.94.174.148 # nbcnews.com
+23.94.251.144 # Paperless Post & Google
 23.94.253.213 # slack.com
 23.94.57.87 # nypost.com
 3.104.65.151 # Notion Labs, Inc. notion.com
