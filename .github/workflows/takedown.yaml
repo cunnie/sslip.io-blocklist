@@ -24,6 +24,7 @@ jobs:
           TARGET: ${{ github.event.client_payload.target }}
           EMAIL_SUBJECT: ${{ github.event.client_payload.subject }}
           EMAIL_FROM: ${{ github.event.client_payload.from }}
+          TZ: America/Los_Angeles
         run: |
           # IP_ADDR holds one or more space-separated IP addresses
           CLEAN_TARGET=$(printf '%s' "$TARGET" | tr -d '\r\n\t' | sed 's/[^[:print:]]//g')
