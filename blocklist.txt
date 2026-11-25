@@ -1025,8 +1025,6 @@
 63.186.43.96 # React CVE-2025-55182
 64.120.94.224 # Deutsche Telekom
 64.176.189.63 # climaterealityproject.org
-64.176.22.9 # Costco
-64.176.22.9 # JPMorgan Chase / Chase.com
 64.176.5.116 # Ramp Chile
 64.188.74.204 # Apple / iCloud
 64.205.112.11 # DHL
