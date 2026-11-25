@@ -747,6 +747,7 @@
 31.210.172.110 # Dutch HTTP vulnerability
 31.214.157.178 # freeimages
 31.220.101.129 # United Company for Financial Services tasheelfinance.com
+31.220.101.15 # United Company for Financial Services tasheelfinance.com
 31.220.87.136 # Indusind Bank
 31.56.113.98 # Slack
 31.57.201.80 # Tasheel
