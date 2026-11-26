@@ -468,6 +468,7 @@
 179.43.140.198 # Allica Bank
 179.43.175.10 # Revolut
 179.61.249.10 # csmonitor.com
+18.130.51.16 # SQL injection vulnerability in Ghost (CVE-2026-26980)
 18.184.57.83 # shenoto.com
 18.216.136.92 # Bancolombia
 18.218.70.131 # nuevoleon.travel
