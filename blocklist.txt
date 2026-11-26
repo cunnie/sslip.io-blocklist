@@ -130,6 +130,7 @@
 129.151.147.169 # terredeshommes.org
 129.225.88.25 # Universal Navigation Inc. (DBA “Uniswap Labs”)
 129.80.218.5 # actionaid.org
+13.140.130.27 # Circle Internet Financial, Inc. circle.com
 13.140.150.177 # Bank al Etihad
 13.140.225.108 # IAC Inc health.com
 13.141.51.26 # Apple
