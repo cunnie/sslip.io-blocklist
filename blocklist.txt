@@ -382,6 +382,7 @@
 168.119.121.187 # proton.me
 168.119.160.60 # akharinnews.com
 168.119.185.233 # wsj.com
+168.119.229.225 # SpaceX Grok
 168.119.94.3 # pcgamesn.com
 168.144.189.54 # Scotiabank
 168.222.97.149 # Tasheel
