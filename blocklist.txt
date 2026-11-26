@@ -214,6 +214,7 @@
 141.94.2.52 # defcad.com
 141.95.103.173 # rebellion.global
 141.98.119.198 # gnupg.org
+141.98.199.149 # Bank for Investment and Development of Vietnam (BIDV)
 141.98.210.133 # mastodon.xyz
 141.98.235.244 # Slack
 142.171.230.151 # whatsoproudlywehail.org
