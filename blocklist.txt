@@ -365,6 +365,7 @@
 167.172.17.108 # Uber Eats
 167.172.212.184 # Coinbase
 167.233.126.230 # TradingView Inc. tradingview.com
+167.233.130.151 # Singularu Ideas a Medida, S.L. singularu.com
 167.233.59.205 # Raiffeisen Bank
 167.234.213.68 # brew.sh
 167.235.128.251 # spotmyenergy.com
